@@ -1,0 +1,551 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "16563866841a35bba5": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner-CamNeate_G_W-3054-new-logo.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/CamNeate_G_W-3054-new.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 660,
+        "height_mobile": 440,
+        "image_link": "shopify:\/\/collections\/signage",
+        "subheading": "★★★★★",
+        "title": "\"Every detail is \nbeautifully considered. \nWe have the best\n looking sign in town!\"",
+        "title_size": 34,
+        "title_size_mobile": 30,
+        "use_h1": false,
+        "text": "<p>KASEY L. VERIFIED BUYER<\/p>",
+        "enlarge_text": true,
+        "button_label_1": "SHOP SIGNAGE",
+        "button_url_1": "shopify:\/\/collections\/signage",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center left",
+        "full_width": true,
+        "mobile_overlay_under": true,
+        "overlay_style": "shadow"
+      }
+    },
+    "1656540825be460c7d": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1656540825530b3a2b-0": {
+          "type": "heading",
+          "settings": {
+            "title": "When your signage is the first thing people see, it’s important to put your best foot forward.",
+            "use_h1": false
+          }
+        },
+        "1656540825530b3a2b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "1656540825530b3a2b-0",
+        "1656540825530b3a2b-1"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "1656550498b9b820e2": {
+      "type": "multi-column",
+      "blocks": {
+        "16565504980df8543f-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/WhatsApp-Image-2022-06-15-at-11.32.40-AM_596fcc14-c298-474e-8970-9e22b60e9568.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "A-Frame Sign",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board"
+          }
+        },
+        "16565504980df8543f-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-06-09_at_10.10.10_AM_2.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "Round Sign",
+            "link": "shopify:\/\/products\/round-outdoor-shop-sign"
+          }
+        },
+        "16565504980df8543f-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/GW-Solo2-StandingSign_d3b24325-4d24-4093-b0ae-a5eec6bcbaf0.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "Standing Sign",
+            "link": "shopify:\/\/products\/standing-round-sign"
+          }
+        }
+      },
+      "block_order": [
+        "16565504980df8543f-1",
+        "16565504980df8543f-0",
+        "16565504980df8543f-2"
+      ],
+      "settings": {
+        "title": "Best Sellers",
+        "text_alignment": "center",
+        "button_style": "secondary",
+        "use_alt_bg": false
+      }
+    },
+    "1656544458079a676a": {
+      "type": "testimonials",
+      "blocks": {
+        "1656544458b4d622de-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "'Having a well-designed & thoughtful solution off-the-shelf is a lifesaver, especially when there are so many other tricky things to sort out along the journey.",
+            "author": "Buster Caldwell, Wonder Group",
+            "image": "shopify:\/\/shop_images\/Screen-Shot-2022-06-28-at-10.11.34-AM-_1.jpg",
+            "image_alignment": "top right",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "1656544458b4d622de-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "\"The only company that makes attractive signage\"",
+            "author": "Nikita, Marta's Bakery & Cafe",
+            "image": "shopify:\/\/shop_images\/Standing-Sign-1.jpg",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1656544458b4d622de-1",
+        "1656544458b4d622de-0"
+      ],
+      "settings": {
+        "title": "Over 2000 Customer reviews",
+        "layout": "image-right",
+        "text_caps": false,
+        "quote_text_size": 37,
+        "quote_text_size_mobile": 20,
+        "image_shape": "square",
+        "use_alt_bg": false,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16565479407283394a": {
+      "type": "gallery",
+      "blocks": {
+        "16565479408e1fe92d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-06-08_at_12.15.46_PM_1.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "SHOP WALL SIGNS",
+            "link": "shopify:\/\/collections\/wall-signage",
+            "text_alignment": "bottom center"
+          }
+        },
+        "16565479408e1fe92d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GW-Solo2-LetterSidewalk_e9efd1aa-e780-4ef8-8852-77d6e2e0b028.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "SHOP SIDEWALK SIGNS",
+            "link": "shopify:\/\/collections\/sidewalk-signs",
+            "text_alignment": "bottom center"
+          }
+        }
+      },
+      "block_order": [
+        "16565479408e1fe92d-0",
+        "16565479408e1fe92d-1"
+      ],
+      "settings": {
+        "gallery_title": "",
+        "grid": 2,
+        "desktop_image_height": 780,
+        "mobile_image_height": 400,
+        "title_size": 38,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": false,
+        "overlay_style": "full",
+        "button_style": "secondary"
+      }
+    },
+    "16644914606c39974a": {
+      "type": "background-video",
+      "settings": {
+        "video": "https:\/\/www.youtube.com\/watch?v=NA9g3ociN4s",
+        "placeholder_image": "shopify:\/\/shop_images\/Banner-Option.jpg",
+        "subheading": "",
+        "title": "Crafted for a\nWarmer Welcome",
+        "title_size": 46,
+        "title_size_mobile": 32,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "SHOP SIGNAGE",
+        "button_url_1": "shopify:\/\/collections\/signage",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "bottom left",
+        "height_desktop": 700,
+        "height_mobile": 500,
+        "full_width": true,
+        "overlay_style": "full image-overlay--bg-shadow"
+      }
+    },
+    "16565454094577dbba": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2_b66497c5-c33d-451b-b475-950eb7908708.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 280,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "1656386869a1394d3e": {
+      "type": "rich-text",
+      "blocks": {
+        "1656386869983a95fd-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "1656386869983a95fd-0"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "16565449536969c24d": {
+      "type": "image-with-text-full",
+      "disabled": true,
+      "settings": {
+        "section_bg": "#f1f0eb",
+        "image": "shopify:\/\/shop_images\/1_36ba504c-1210-47d0-8eb1-98399c9cbf42.jpg",
+        "video": "",
+        "autoplay": false,
+        "title": "Get Inspired",
+        "header_font_new": "work_sans_n6",
+        "font_size": 46,
+        "image_size": 150,
+        "text": "",
+        "button_label": "EXPLORE THE GALLERY",
+        "button_link": "shopify:\/\/pages\/signage-gallery",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left"
+      }
+    },
+    "1656546691856167d4": {
+      "type": "rich-text",
+      "blocks": {
+        "16565466911f461f2b-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "16565466911f461f2b-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "16565466911f461f2b-0",
+        "16565466911f461f2b-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "165655808345111271": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 200,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "Shop the Favorites",
+        "title_size": 44,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16563870001c42937e": {
+      "type": "gallery",
+      "disabled": true,
+      "blocks": {
+        "16563870001a3123ea-0": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "letter sidewalk sign",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "16563870001a3123ea-1": {
+          "type": "image",
+          "settings": {
+            "alignment": "center left",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "A-FRAME SIGN",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "16563870001a3123ea-2": {
+          "type": "image",
+          "settings": {
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "Standing sign",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "16563870001a3123ea-0",
+        "16563870001a3123ea-1",
+        "16563870001a3123ea-2"
+      ],
+      "settings": {
+        "gallery_title": "",
+        "grid": 3,
+        "desktop_image_height": 500,
+        "mobile_image_height": 400,
+        "title_size": 64,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": false,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "no_background",
+        "button_style": "link"
+      }
+    },
+    "1656558516bab6d77a": {
+      "type": "rich-text",
+      "blocks": {
+        "1656558516243799d6-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "1656558516243799d6-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "16565412046db923f9": {
+      "type": "image-with-text-full",
+      "settings": {
+        "section_bg": "#acb8aa",
+        "image": "shopify:\/\/shop_images\/WhatsApp-Image-2022-06-28-at-11.59.40-AM.jpg",
+        "video": "",
+        "autoplay": false,
+        "title": "No Time For Boring Signs",
+        "header_font_new": "work_sans_n6",
+        "font_size": 51,
+        "image_size": 150,
+        "text": "",
+        "button_label": "EXPLORE SIDEWALK SIGNS",
+        "button_link": "shopify:\/\/collections\/sidewalk-signs",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left"
+      }
+    },
+    "16565538315351a039": {
+      "type": "rich-text",
+      "blocks": {
+        "1656553831e142b584-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "1656553831e142b584-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "1656553831e142b584-0",
+        "1656553831e142b584-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "1656548211590fccf6": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/george-willy-thumbsup_7cafd10e-eaa9-4cbb-b54f-5f1d09bd7260.gif",
+        "image_width": 470,
+        "subheading": "",
+        "title": "A Note From George & Willy",
+        "use_h1": false,
+        "text": "<p>How can signage be as friendly, effective, and fun as possible? That’s what we asked ourselves when we started, and everyday since. Thanks for visiting us and please let us know if you have any questions.<\/p>",
+        "button_label": "CONTACT",
+        "button_link": "",
+        "button_style": "link",
+        "image_position": "left",
+        "text_alignment": "left",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "1664493573ed720368": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": ""
+      }
+    },
+    "166450266359e0c7d6": {
+      "type": "logo-list",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "image_opacity": 75,
+        "use_alt_bg": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16563866841a35bba5",
+    "1656540825be460c7d",
+    "1656550498b9b820e2",
+    "1656544458079a676a",
+    "16565479407283394a",
+    "16644914606c39974a",
+    "16565454094577dbba",
+    "1656386869a1394d3e",
+    "16565449536969c24d",
+    "1656546691856167d4",
+    "165655808345111271",
+    "16563870001c42937e",
+    "1656558516bab6d77a",
+    "16565412046db923f9",
+    "16565538315351a039",
+    "1656548211590fccf6",
+    "1664493573ed720368",
+    "166450266359e0c7d6"
+  ]
+}

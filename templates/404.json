@@ -1,0 +1,67 @@
+{
+  "sections": {
+    "06fa47f2-c6a9-489a-8d5f-14ee1062f0a6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14572521095271__06fa47f2-c6a9-489a-8d5f-14ee1062f0a6-1675816971f1a1fdf0-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Sorry, we can't find that page!",
+            "use_h1": false
+          }
+        },
+        "template--14572521095271__06fa47f2-c6a9-489a-8d5f-14ee1062f0a6-1675816971f1a1fdf0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>It looks like you may have been sent to a link that doesn't exist. Use the links below to find your way again.<\/p>",
+            "enlarge_text": true
+          }
+        },
+        "bbcf8965-3228-4721-82fc-be28f0290728": {
+          "type": "button",
+          "settings": {
+            "button_label": "Visit our Homepage",
+            "button_link": "https:\/\/www.georgeandwilly.com\/",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "template--14572521095271__06fa47f2-c6a9-489a-8d5f-14ee1062f0a6-1675816971f1a1fdf0-0",
+        "template--14572521095271__06fa47f2-c6a9-489a-8d5f-14ee1062f0a6-1675816971f1a1fdf0-1",
+        "bbcf8965-3228-4721-82fc-be28f0290728"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "main": {
+      "type": "main-404",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {}
+    },
+    "506edcaf-eb1b-475f-baea-974f2fa8bbc8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Take a look at our Best Sellers",
+        "collection": "best-sellers",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "06fa47f2-c6a9-489a-8d5f-14ee1062f0a6",
+    "main",
+    "506edcaf-eb1b-475f-baea-974f2fa8bbc8"
+  ]
+}

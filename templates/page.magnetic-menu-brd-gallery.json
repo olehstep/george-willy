@@ -1,0 +1,479 @@
+{
+  "sections": {
+    "16566320477e0d5023": {
+      "type": "rich-text",
+      "blocks": {
+        "16566320470fdf659d-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Get Inspired",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "16566320470fdf659d-0"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    },
+    "3adf0e5b-8496-4760-ac98-314c367ff5f8": {
+      "type": "gallery",
+      "blocks": {
+        "template--14603108122727__3adf0e5b-8496-4760-ac98-314c367ff5f8-16802099895f16ead3-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/yolk_-_Florian_Groehn.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "8a011c4a-6d82-4906-accd-1eef5ca442d4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/61_on_the_green-cred-_garethmcgaughey.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "ce0f6749-7844-4df4-b716-dd76e852ab00": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Magnetic-Letter-Menu-George-and-Willy.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "9072ac6f-8eba-4716-8d06-36df6de0fc62": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/awakennorthcoast.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "bcaad0d4-8e81-412c-a6b2-11852e21d777": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bleached_coffee_and_company.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "7fc5f3bd-30b0-4477-8371-5efc4f5092bc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/byMalicCoffee-1.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "084da381-0c50-4e73-8c71-34fe5d74b23c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/electriccoffeehouse_330cf181-402f-4d4c-9f15-423b6c9f5b83.png",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "dda70a9d-53c2-441a-a2e8-b6c6cb361644": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/farmcupcoffee_1.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "866f1772-b524-4924-8c89-5ff01755cec6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fivefootonedesign.3_1603c753-5867-45d6-b096-b4bd1273cd68.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "304214ae-8b38-4aab-8c49-f43a96ec9124": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kg_designuae_3.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "5a3c7706-16a7-4752-a38e-f627c31e2e92": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mtatkinson_coffee-pc-_benlewer--2.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "3ad81a54-9f4b-4ce0-b851-05ee1f4f6df6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/slow.mov_greenmamabcn_2.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "ca6a073c-d38e-40e9-8df1-653dc7677ca0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/zaarashaikhraza_photocred_AngelaNewtonRoyPhotography.4.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "6ea2421b-3aea-4db2-bf12-09c0d2ac22a2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/19-02-25-ParisBrooklyn--_-Bartosch-Salmanski---128db.fr-0162-2_light.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "0bdaba70-0d87-48a9-b2b8-e55a3692bc17": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/alanafletcherinteriors.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "2c248629-b4a1-49c6-981e-72a5baa70ba3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Allora_321dd55f-69a1-49ce-84f9-6accc5acb7ca.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "d819ba26-b5f2-41d5-9e36-32508afbf43b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Baker_MEnu_c1629f19-6f79-4e46-9add-6814ab7562f6.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "c5d3c55d-b89e-4b9f-8f4a-fe45fd7d2212": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Baker-Menu-George-and-Willy-1.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1c24269e-c4a9-4f00-8a17-2ee24bef4944": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Baker-Menu-George-and-Willy.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "1489d55d-fa9a-4466-add5-b707879fd442": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Baker-Menu.6.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "da34e51a-be69-4e79-b83d-e2e49400db98": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Baker-Menu.8.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "163d039b-3b6c-49f0-8692-6e8be3ecb350": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cafe_Menu_2.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "a5b0b763-2579-47cc-af96-26bada13b30b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DropBox-009_9b5070b9-b3b9-4b1e-a9e9-4e7a7c91c63b.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "deb8f844-3323-412e-bbc4-1834e389b9b9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/five_eighths.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "d64522bd-2ab2-4495-a8f5-bc1a8360b37e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hudco.co_70b8ddae-e829-409e-875c-f55cc59aa67e.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "b359e1b8-3eef-4a26-a545-6a6cf03e0e10": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lex_s_Bagels-7_1.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "e258f5a3-a9e4-4de5-80ee-1b4653d245c1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Magnetic-Letter-Board_8b36bddc-359d-4a8b-b4ed-e6aada2e213f.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "daa02ad3-8f91-4117-8b53-c2dd0e36b47d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Magnetic-Letter-Menu-George-and-Willy-2_3ce60719-2755-4854-b8bd-e78d55974b34.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "3e120b89-e276-4408-a21b-b757a1078501": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Magnetic-Menu-Board.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "69c93a70-7aa6-413f-910c-44cffc00e83c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-06-04_at_5.51.01_AM.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14603108122727__3adf0e5b-8496-4760-ac98-314c367ff5f8-16802099895f16ead3-3",
+        "8a011c4a-6d82-4906-accd-1eef5ca442d4",
+        "ce0f6749-7844-4df4-b716-dd76e852ab00",
+        "9072ac6f-8eba-4716-8d06-36df6de0fc62",
+        "bcaad0d4-8e81-412c-a6b2-11852e21d777",
+        "7fc5f3bd-30b0-4477-8371-5efc4f5092bc",
+        "084da381-0c50-4e73-8c71-34fe5d74b23c",
+        "dda70a9d-53c2-441a-a2e8-b6c6cb361644",
+        "866f1772-b524-4924-8c89-5ff01755cec6",
+        "304214ae-8b38-4aab-8c49-f43a96ec9124",
+        "5a3c7706-16a7-4752-a38e-f627c31e2e92",
+        "3ad81a54-9f4b-4ce0-b851-05ee1f4f6df6",
+        "ca6a073c-d38e-40e9-8df1-653dc7677ca0",
+        "6ea2421b-3aea-4db2-bf12-09c0d2ac22a2",
+        "0bdaba70-0d87-48a9-b2b8-e55a3692bc17",
+        "2c248629-b4a1-49c6-981e-72a5baa70ba3",
+        "d819ba26-b5f2-41d5-9e36-32508afbf43b",
+        "c5d3c55d-b89e-4b9f-8f4a-fe45fd7d2212",
+        "1c24269e-c4a9-4f00-8a17-2ee24bef4944",
+        "1489d55d-fa9a-4466-add5-b707879fd442",
+        "da34e51a-be69-4e79-b83d-e2e49400db98",
+        "163d039b-3b6c-49f0-8692-6e8be3ecb350",
+        "a5b0b763-2579-47cc-af96-26bada13b30b",
+        "deb8f844-3323-412e-bbc4-1834e389b9b9",
+        "d64522bd-2ab2-4495-a8f5-bc1a8360b37e",
+        "b359e1b8-3eef-4a26-a545-6a6cf03e0e10",
+        "e258f5a3-a9e4-4de5-80ee-1b4653d245c1",
+        "daa02ad3-8f91-4117-8b53-c2dd0e36b47d",
+        "3e120b89-e276-4408-a21b-b757a1078501",
+        "69c93a70-7aa6-413f-910c-44cffc00e83c"
+      ],
+      "settings": {
+        "gallery_title": "",
+        "grid": 3,
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "link"
+      }
+    }
+  },
+  "order": [
+    "16566320477e0d5023",
+    "main",
+    "3adf0e5b-8496-4760-ac98-314c367ff5f8"
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "sections": {
+    "7720e2bd-f7ac-49a2-b520-264aaa36048f": {
+      "type": "image-with-text-full",
+      "disabled": true,
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/Metal-Business-Signs-from-George-and-Willy.jpg",
+        "video": "",
+        "autoplay": false,
+        "title": "The Nicest Signage in the World",
+        "header_font_new": "work_sans_n6",
+        "font_size": 40,
+        "image_size": 150,
+        "text": "",
+        "button_label": "Shop Now",
+        "button_link": "shopify:\/\/collections\/all",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "left"
+      }
+    },
+    "1b6d64d4-0f8b-47df-a88e-194002e67026": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Light_Box_Banner_2048x781px-min.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Round_Light_Box_Sign_George_and_Willy.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "shopify:\/\/products\/round-light-box-sign",
+        "subheading": "",
+        "title": "",
+        "title_size": 60,
+        "title_size_mobile": 40,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center left",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "no_background"
+      }
+    },
+    "90f839e8-7eb9-477f-a6ed-6e8f54296ebd": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/multi-image-banner-desktop-1.5x-min.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/multi-image-mobile-1.5x-min.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "shopify:\/\/collections\/all",
+        "subheading": "",
+        "title": "",
+        "title_size": 60,
+        "title_size_mobile": 40,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center left",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "no_background"
+      }
+    },
+    "16359276425da8ce46": {
+      "type": "slideshow",
+      "blocks": {
+        "9eecaa80-fb07-4538-9370-b0981c2c9220": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Banner-A-Frame-Mike_ec40f7b3-9fda-423f-b820-b816c4520019.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Banner-A-Frame-Mobile_490b3383-4ae9-4503-b573-7afd66d509bf.jpg",
+            "image_position": "center left",
+            "mobile_image_position": "left center",
+            "slide_link": "",
+            "subheading": "",
+            "title": "The Nicest Signage\nin the World",
+            "title_size": 40,
+            "title_size_mobile": 30,
+            "text": "",
+            "enlarge_text": true,
+            "button_label_1": "Shop Now",
+            "button_url_1": "shopify:\/\/collections\/all",
+            "button_label_2": "",
+            "button_url_2": "",
+            "text_alignment": "center left",
+            "cf06_textcolor": "#394f3d",
+            "cf06_curvedtitle": "",
+            "cf06_subtitle": "",
+            "cf06_btn_text": "",
+            "cf06_review_text": "",
+            "cf06_review_name": ""
+          }
+        }
+      },
+      "block_order": [
+        "9eecaa80-fb07-4538-9370-b0981c2c9220"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 660,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "no_background",
+        "slide_transition": "instant",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 1
+      }
+    },
+    "6650460b-9454-4a05-beef-4d8ef9edd167": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14550511779943__6650460b-9454-4a05-beef-4d8ef9edd167-1672145706f5b957a4-0": {
+          "type": "heading",
+          "settings": {
+            "title": "\"The Sign is just what I was looking for and everyone is commenting on how great it looks. Great service and fast shipping\"",
+            "use_h1": false
+          }
+        },
+        "template--14550511779943__6650460b-9454-4a05-beef-4d8ef9edd167-1672145706f5b957a4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>- Brent S.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14550511779943__6650460b-9454-4a05-beef-4d8ef9edd167-1672145706f5b957a4-0",
+        "template--14550511779943__6650460b-9454-4a05-beef-4d8ef9edd167-1672145706f5b957a4-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": true,
+        "use_alt_bg": false
+      }
+    },
+    "1651721243512d65d5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Best Sellers",
+        "collection": "best-sellers",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": false,
+        "full_width": false
+      }
+    },
+    "16553343122727c31e": {
+      "type": "rich-text",
+      "blocks": {
+        "1655334312f06b4f6b-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Crafted for a Warmer Welcome",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "1655334312f06b4f6b-0"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": true,
+        "use_alt_bg": false
+      }
+    },
+    "16547282491ee4d8ac": {
+      "type": "gallery",
+      "blocks": {
+        "165472824908897e33-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/George-and-Willy-Table-Talkers-3_7f092cb6-5d0b-442d-813c-4ebafb88fe90.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "Tabletop",
+            "link": "shopify:\/\/collections\/tabletop",
+            "text_alignment": "bottom left"
+          }
+        },
+        "165472824908897e33-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Baker-Menu.29_copy.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "Menu Boards",
+            "link": "shopify:\/\/collections\/letter-menu-boards",
+            "text_alignment": "bottom left"
+          }
+        },
+        "7fa8906b-1d11-47ac-81fa-1b885eef36e9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GW-Location-AFrame-198-new-_1.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "Sidewalk Signs",
+            "link": "shopify:\/\/collections\/sidewalk-signs",
+            "text_alignment": "bottom left"
+          }
+        },
+        "165472824908897e33-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/George-and-Willy-Round-Sign-white_3e2999e9-f2b3-4726-b5b0-b0e588eddffc.jpg",
+            "alignment": "center center",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "button_label": "Wall Signs",
+            "link": "shopify:\/\/collections\/wall-signage",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "165472824908897e33-2",
+        "165472824908897e33-3",
+        "7fa8906b-1d11-47ac-81fa-1b885eef36e9",
+        "165472824908897e33-1"
+      ],
+      "settings": {
+        "gallery_title": "",
+        "grid": 2,
+        "desktop_image_height": 400,
+        "mobile_image_height": 400,
+        "title_size": 36,
+        "title_size_mobile": 40,
+        "enable_margin": true,
+        "enable_row_spacing": false,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": false,
+        "overlay_style": "no_background",
+        "button_style": "secondary"
+      }
+    },
+    "165543266112ffbf5b": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "<p><\/p>",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16359281184fd0d618": {
+      "type": "testimonials",
+      "blocks": {
+        "16359281184fd0d618-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "These guys have put some serious love into their craft. It lifts the presence of our store before anyone walks in the door.",
+            "author": "Lex Mawson, @specialmention_atk",
+            "image": "shopify:\/\/shop_images\/George-and-Willy-Standing-Lollipop-Sign.jpg",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": "shopify:\/\/products\/standing-round-sign"
+          }
+        },
+        "5fac1d0c-bb30-4cd2-9ee0-fd0db3e7cb0f": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "George & Willy products have this timeless simplicity to them that blends into nearly all project's aesthetics.",
+            "author": "Christi Rivard, Bidgood+Co",
+            "image": "shopify:\/\/shop_images\/wooden-letter-board_e726d1ef-904f-46a8-9693-bb11fd71ca2e.jpg",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": "shopify:\/\/products\/wooden-letter-board"
+          }
+        },
+        "16359281184fd0d618-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Having a well-designed & thoughtful solution off-the-shelf is a lifesaver, especially when there are so many other tricky things to sort out along the journey.",
+            "author": "Buster Caldwell, Wonder Group",
+            "image": "shopify:\/\/shop_images\/George-and-Willy-Med-Round-Sign.jpg",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": "shopify:\/\/products\/medium-round-sign"
+          }
+        },
+        "724e1328-1019-4280-a543-835f6db23cb5": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "This is the only company that makes attractive signage. The Store Sign has helped our business stand out on our busy little street!",
+            "author": "Nikita Williams, Marta Cafe + Pantry",
+            "image": "shopify:\/\/shop_images\/cafe-business-sign.jpg",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": "shopify:\/\/products\/store-sign"
+          }
+        },
+        "b80b90db-b8a7-4140-b584-573a143a41e3": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Simple can sometimes feel basic, yet it's those little details that George & Willy products possess that feel anything but basic.",
+            "author": "Katie Gebhardt, Solstice Interiors",
+            "image": "shopify:\/\/shop_images\/Moonshine.jpg",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": "shopify:\/\/products\/market-chalk-board-menu"
+          }
+        },
+        "890112d0-d116-491c-89f1-8e07a92de2ab": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "The Counter Signs are an amazing detail on our counter display.",
+            "author": "George Rendall, Lane Eight Coffee London",
+            "image": "shopify:\/\/shop_images\/Counter-signs_d8900b72-da1f-4b73-ab2e-add9facff58e.jpg",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": "shopify:\/\/products\/counter-signs"
+          }
+        },
+        "ecb6c7cf-a7c0-462d-8aae-b85970f440fa": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "We love George & Willy! So simple and slick.",
+            "author": "Yianni Passaris, Morning After & Yolk",
+            "image": "shopify:\/\/shop_images\/magnet-letter-board.jpg",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": "shopify:\/\/products\/magnetic-letter-menu-board"
+          }
+        },
+        "5d1f595b-a677-4f2b-bbfd-9d053b36274f": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Every single object is just right... It’s easy to integrate your products into any project because they can be used as they are, but they still leave room for uniqueness.",
+            "author": "Lucie Delamalmaison, ParisBrooklyn",
+            "image": "shopify:\/\/shop_images\/ParisBrooklyn.jpg",
+            "image_alignment": "center center",
+            "image_caption": "",
+            "link": "shopify:\/\/products\/magnetic-letter-menu-board"
+          }
+        }
+      },
+      "block_order": [
+        "16359281184fd0d618-0",
+        "5fac1d0c-bb30-4cd2-9ee0-fd0db3e7cb0f",
+        "16359281184fd0d618-1",
+        "724e1328-1019-4280-a543-835f6db23cb5",
+        "b80b90db-b8a7-4140-b584-573a143a41e3",
+        "890112d0-d116-491c-89f1-8e07a92de2ab",
+        "ecb6c7cf-a7c0-462d-8aae-b85970f440fa",
+        "5d1f595b-a677-4f2b-bbfd-9d053b36274f"
+      ],
+      "settings": {
+        "title": "",
+        "layout": "image-right",
+        "text_caps": false,
+        "quote_text_size": 42,
+        "quote_text_size_mobile": 22,
+        "image_shape": "portrait",
+        "use_alt_bg": false,
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1656365281da19ef8d": {
+      "type": "image-with-text-full",
+      "settings": {
+        "section_bg": "#acb8aa",
+        "image": "shopify:\/\/shop_images\/A-Frame-Sign-George-and-Willy.jpg",
+        "video": "",
+        "autoplay": false,
+        "title": "'Functional, minimal & playful signage products'",
+        "header_font_new": "work_sans_n6",
+        "font_size": 32,
+        "logo": "shopify:\/\/shop_images\/DWELL_701a615e-7e69-4310-9e44-8fdf95217db4.png",
+        "image_size": 100,
+        "text": "",
+        "button_label": "",
+        "button_link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+        "button_style": "primary",
+        "image_position": "right",
+        "text_alignment": "center"
+      }
+    },
+    "165688204869fd5c21": {
+      "type": "rich-text",
+      "blocks": {
+        "165688204769734bf1-0": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "use_h1": false
+          }
+        },
+        "165688204769734bf1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "165688204769734bf1-0",
+        "165688204769734bf1-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "165577959876ffd4fb": {
+      "type": "background-video",
+      "settings": {
+        "video": "https:\/\/vimeo.com\/724691879",
+        "placeholder_image": "shopify:\/\/shop_images\/024A4907_c7a838da-eca6-4589-952b-8bfe692abebb.jpg",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 32,
+        "use_h1": false,
+        "text": "<p><\/p>",
+        "enlarge_text": false,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "full_width": true,
+        "overlay_style": "shadow"
+      }
+    },
+    "16578285197d2e1681": {
+      "type": "logo-list",
+      "blocks": {
+        "47b62be4-8ac3-4f5d-be33-b1ef8ec9dc6f": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/REMODELISTA.png",
+            "image_width": 160,
+            "link": "",
+            "title": "'Modern utility paired with delightful playfulness'"
+          }
+        },
+        "d58c5846-f4d7-4799-b508-3474c580c6ec": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FORBES.png",
+            "image_width": 160,
+            "link": "",
+            "title": "'A fun idea for the visually-centric'"
+          }
+        },
+        "c183f30d-5633-449b-adef-e45a85600465": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/THE-TIMES.png",
+            "image_width": 160,
+            "link": "",
+            "title": "'Simplify doing laundry and make your clothes last longer'"
+          }
+        },
+        "1018b628-19a3-433c-b9ed-f6883ae4b6d9": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DESIGN-MILK.png",
+            "image_width": 160,
+            "link": "",
+            "title": "'Get Creative with Words'"
+          }
+        }
+      },
+      "block_order": [
+        "47b62be4-8ac3-4f5d-be33-b1ef8ec9dc6f",
+        "d58c5846-f4d7-4799-b508-3474c580c6ec",
+        "c183f30d-5633-449b-adef-e45a85600465",
+        "1018b628-19a3-433c-b9ed-f6883ae4b6d9"
+      ],
+      "settings": {
+        "title": "In the Press",
+        "image_opacity": 100,
+        "use_alt_bg": false
+      }
+    },
+    "1658893660cc0840e2": {
+      "type": "apps",
+      "blocks": {
+        "81d6c269-6fb3-4984-8164-f2bdbf7c52ac": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "81d6c269-6fb3-4984-8164-f2bdbf7c52ac"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    },
+    "165578347791355877": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/george-willy-thumbsup_d784264c-5bd5-4d1d-bd65-15626670242c.gif",
+        "image_width": 400,
+        "subheading": "",
+        "title": "A Note From George & Willy",
+        "use_h1": false,
+        "text": "<p>We started this business to make simple display products for creative spaces. Today we are still doing just that and helping people like you, all over the world, make their space inspiring. Thanks for visiting us and please let us know if you have any questions.<\/p><p>Have fun,<br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left",
+        "logo": "shopify:\/\/shop_images\/george-willy-signature.png",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    }
+  },
+  "order": [
+    "7720e2bd-f7ac-49a2-b520-264aaa36048f",
+    "1b6d64d4-0f8b-47df-a88e-194002e67026",
+    "90f839e8-7eb9-477f-a6ed-6e8f54296ebd",
+    "16359276425da8ce46",
+    "6650460b-9454-4a05-beef-4d8ef9edd167",
+    "1651721243512d65d5",
+    "16553343122727c31e",
+    "16547282491ee4d8ac",
+    "165543266112ffbf5b",
+    "16359281184fd0d618",
+    "1656365281da19ef8d",
+    "165688204869fd5c21",
+    "165577959876ffd4fb",
+    "16578285197d2e1681",
+    "1658893660cc0840e2",
+    "165578347791355877"
+  ]
+}

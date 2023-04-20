@@ -1,0 +1,220 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "7101e309-f832-41aa-b136-91dafc581ebd": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "dropdown",
+            "disable_unavailable_variants": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WEB_USP_2000_x_260px.jpg",
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "content": "<p>Board: 23.6\"\/60cm (W) x 31.5\"\/80cm (H) x 1\"\/2.5cm (D)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0600\/6584\/1310\/files\/Magnet_Chalkboard_Spec_Doc_Updated.pdf?v=1633302083\" target=\"_blank\">View Specifications PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8": {
+          "type": "accordion",
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "content": "<p>Tracked Courier Rates from:<\/p><p>$15 USD within the United States via UPS<br>$19 CAD to Canada via UPS<\/p><p>For orders outside of the USA, customs fees may apply.<\/p><p>Returns are accepted within 100 days of receiving your order. For more info, please see our <a href=\"https:\/\/george-willy-eu.myshopify.com\/pages\/returns-and-exchanges\" target=\"_blank\" title=\"George &amp; Willy Returns policy\">Returns and Exchanges<\/a> policy.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a": {
+          "type": "accordion",
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "content": "<p>Each Magnet Chalkboard comes with all the necessary hardware to get going, with handy installation instructions below.<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Magnetic_Wall_Board_Instructions_Web.pdf?v=1633395040\" target=\"_blank\">Download Instructions PDF<\/a><\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "8fbd1674-3e95-496e-bcb2-bd73be39f686": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "content": "<h3>What colors does the Magnet Chalkboard come in?<\/h3><p>The Magnet Chalkboard is available in green and black.<\/p><h3>Do Magnet Letters come with the Magnet Chalkboard?<\/h3><p>The white magnetic letters are an optional add-on with the Magnet Chalkboard and are 1\"\/25mm in size.<\/p><h3>Does the Magnet Chalkboard come with screws for mounting?<\/h3><p>Yes, the Magnet Chalkboard comes with screws for mounting into a wooden surface. All you will need is a drill or screwdriver and a level.<\/p><h3>How do I get the Magnet Chalkboard branded?<\/h3><p>Your local signwriter will be able to make and apply a vinyl adhesive to the board.<\/p><h3>Can the Magnet Chalkboard be installed outside?<\/h3><p>The Magnet Chalkboard is crafted from steel and should only be used in interior spaces as it is not considered weatherproof. <\/p><h3>What can you use the Magnet Chalkboard for?<\/h3><p>You can use your Magnet Chalkboard for a cafe menu, timetable, large notepad, memo board, or a place to apply your logo with the help of your local signwriter. Use it in conjunction with our <a href=\"https:\/\/www.georgeandwilly.com\/products\/chalk-sandwich-board\" title=\"chalk blackboard street sign\">Chalk Sandwich Board<\/a> to truly showcase your business.<\/p><h3>How big is the Magnet Chalkboard?<\/h3><p>The magnetic wall board is 23.6\"\/60cm x 31.5\"\/80cm x 1\"\/2.5cm.<\/p><h3>Does the magnetic blackboard come with a stencil?<\/h3><p>No, the chalkboard does not come with a stencil. <\/p><h3>What pens can I use on the Magnet Chalkboard?<\/h3><p>Traditional chalk is the best way to write on this board, and we would not recommend using liquid chalk pens.<\/p>",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bce194fb-2905-40b4-a870-732bd608f8e1": {
+          "type": "related_products",
+          "settings": {
+            "title": "",
+            "product_list": []
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "7101e309-f832-41aa-b136-91dafc581ebd",
+        "divider",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
+        "4ebd18b8-a4f9-495d-97f8-a029edc1e99a",
+        "8fbd1674-3e95-496e-bcb2-bd73be39f686",
+        "bce194fb-2905-40b4-a870-732bd608f8e1"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "1655433418cebadf50": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "16534294759f628925": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Similar items",
+        "collection": "letter-menu-boards",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "165646884610984750": {
+      "type": "apps",
+      "blocks": {
+        "285d157b-e1e0-4724-bc6f-8eb31cfddb7a": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "285d157b-e1e0-4724-bc6f-8eb31cfddb7a"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1655433418cebadf50",
+    "16534294759f628925",
+    "recommendations",
+    "165646884610984750"
+  ]
+}
