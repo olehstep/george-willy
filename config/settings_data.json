@@ -1282,11 +1282,6 @@
         "settings": {
           "position": "right"
         }
-      },
-      "54bb402e-17ca-4f45-8f63-84b9c93f4f7c": {
-        "type": "shopify:\/\/apps\/boost-ai-search-discovery\/blocks\/boost-sd\/7fc998ae-a150-4367-bab8-505d8a4503f7",
-        "disabled": false,
-        "settings": {}
       }
     }
   }
