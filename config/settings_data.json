@@ -1080,6 +1080,7 @@
           },
           "c25a6448-f28d-4a63-83fa-4c5b633ff3a1": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "<p>Lifetime Warranty  • 100 Day Returns • Express Shipping<\/p>"
             }
@@ -1093,9 +1094,9 @@
           "announcement_bar_col": "#f4c165",
           "announcement_text_col": "#fefbf4",
           "message_font_size": 15,
-          "show_social_icons": true,
+          "show_social_icons": false,
           "menu": "",
-          "show_country_selector": true,
+          "show_country_selector": false,
           "show_language_selector": false
         }
       },
@@ -1241,7 +1242,7 @@
         "settings": {
           "lower_menu": "",
           "show_payment_icons": true,
-          "show_country_selector": false,
+          "show_country_selector": true,
           "show_language_selector": false
         }
       },

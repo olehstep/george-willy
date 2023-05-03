@@ -1,0 +1,818 @@
+{
+  "sections": {
+    "16566320477e0d5023": {
+      "type": "rich-text",
+      "blocks": {
+        "16566320470fdf659d-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Get Inspired",
+            "use_h1": false
+          }
+        },
+        "d486693d-83b5-46c7-a942-3cf073c08bda": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A collection of our favorite pictures of George & Willy products around the world.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "16566320470fdf659d-0",
+        "d486693d-83b5-46c7-a942-3cf073c08bda"
+      ],
+      "settings": {
+        "height": "small",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "16563870001c42937e": {
+      "type": "gallery",
+      "blocks": {
+        "8536c815-e7d5-4383-8168-3a2e00580ec6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kbing.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/wooden-pegboard-with-wooden-pegs",
+            "text_alignment": "bottom left"
+          }
+        },
+        "07e87958-22d2-4013-bf4e-329a3efc9295": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/annamucciphoto-_compositioncoffee-4.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/atelier-letter-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "651f05b7-4e6c-4452-9b92-5ba093885c55": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-06-17_at_12.59.47_PM_19486b5c-ec49-4db8-96ec-2b56f0b33e6f.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Products",
+            "link": "shopify:\/\/collections\/signage-for-business",
+            "text_alignment": "bottom left"
+          }
+        },
+        "dcb8b319-5daf-4b60-8d84-2ae6beb1918d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/yolk_-_Florian_Groehn_e09040a4-c405-4447-8e2a-cee0f30f4d37.jpg",
+            "alignment": "top left",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/magnetic-letter-menu-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "66f75d70-0180-46d9-b90d-43a820df28e5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/George_Willy-81_9ad9440f-8f34-4f66-99dd-aeedb0ae58ba.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/counter-signs",
+            "text_alignment": "bottom left"
+          }
+        },
+        "a03dd2a0-3b41-4c40-bef3-a37f52916f74": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_aa3d99d8-59a9-4597-a04a-d5393dc4c8bb.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/hanging-menu-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "bf7cb979-31b4-40df-96ad-3027c4790155": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GW-Letter-Sidewalk-Sign_black-street-sign.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/letter-sidewalk-sign",
+            "text_alignment": "bottom left"
+          }
+        },
+        "a9536371-67a9-42af-806c-f5d24b011729": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9-10_julesslutsky-_festivalNYC-258.jpg",
+            "alignment": "top left",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/atelier-letter-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "9f197e71-20cd-47c1-abe8-d32793f53a85": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/081A5150_25f1cab9-723d-4454-91fb-a99b421dbc22.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "81606d6c-8b5c-4e8a-b135-c4e923b04605": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ampersand_dfe8376c-c7cb-40a8-84bf-1ac734ba02ef.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/round-outdoor-shop-sign",
+            "text_alignment": "bottom left"
+          }
+        },
+        "67212c40-2d63-4af2-b26a-4e122598d126": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/strongconstruction_strongconstruction_mmk_creative_cocosprovisions_bidgoodco-1.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/wooden-letter-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "f60e37dc-6be3-4655-b0d1-290490c3d5f9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/barrjoinery_2_d8f7bd22-c4cf-43e5-9d7a-44903624db92.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "f4686e1c-f77f-4957-88a2-228625ba90df": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/220324_Fusillo-G_W_web-6_84d5e295-9500-421d-a2ff-e55cd08cfbe0.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "f0008615-834f-4f91-8534-71403fad55dc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GW-Solo2-AFrame_94c0a672-8fc4-4fc0-96e6-4a2cfa9cbafc.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "2915bbb9-773c-4d1e-873b-96c67322d6fb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/monkandnun_co_patriechoco_peteandselena_2.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/atelier-letter-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "eccc9912-20cd-4896-840e-84552980c686": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/28_39ba6c59-8d23-4eea-a08f-570ab24b79ca.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "4804c149-cfd3-4fdb-ab28-9696034254fe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Magnetic-Letter-Menu-George-and-Willy-2_a5eddeae-50d8-4b73-8397-9f9ea786f538.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/magnetic-letter-menu-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "d56275ce-9745-4317-85cb-cd651acbd783": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lucid-Interiors_11afa4b6-7567-406e-bc96-1558a1b0e8e6.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "6c7a69df-a8da-4cf7-a1d8-7ee4ee7dceb8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/truehomeblog-1.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/wooden-letter-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "6909597d-d29b-4813-b672-80bacc179a02": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/220203_Fusillo-G_W_2-web.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/atelier-letter-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "82fa56c1-e080-4398-b7a4-15b618085bcf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Atelier_Brass_on_Black-5.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/atelier-letter-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "ffd489e2-49c5-4dfb-848d-902f10e59c45": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/two_greens_c722dd66-5faa-41c5-bb2a-6907f0f59791.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/hanging-menu-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "2d965db0-5ccb-41e7-a8d3-be89a1b29761": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daily_x_Kinto-3104-2_1_444c639b-2dcc-447e-b6ba-6b9608e8cd69.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/daily-roller",
+            "text_alignment": "bottom left"
+          }
+        },
+        "6411f60b-061c-48db-88a0-6c261c271d14": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Scout-3309_5015171a-63a2-42e1-8c0d-fbbb7a35f61f.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/changeable-letter-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "332b3a08-e300-4c59-be40-377375cedc27": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Hanging_Drying_Rack_de8751ee-8b88-446a-aad6-3a2ace3c09c5.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/ceiling-hanging-drying-rack",
+            "text_alignment": "bottom left"
+          }
+        },
+        "c7e621e8-4671-47c8-abab-4ed45693a90a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/saintceciliavictoria-Dasha_Armstrong-bidgood.co2_20f1a673-032b-4ec0-a326-ef163229afb5.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/wooden-letter-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "97221e9f-6640-4056-9174-33709a91ebfa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/211122_Fusillo-G_W-1_187d6ec1-54c0-4c4f-90ce-911b810504c9.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/counter-signs",
+            "text_alignment": "bottom left"
+          }
+        },
+        "56d7c375-2bde-4813-acae-b493fdf11e83": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/codoscoffee_6_37a829fb-9b39-4800-a248-1f4f55fb5329.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/hanging-menu-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "887aad41-e238-405d-8bc4-eadcea09c5fd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/devote.studio_ba0d0b12-84a0-436c-bbfa-720ab0304c7c.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/round-outdoor-shop-sign",
+            "text_alignment": "bottom left"
+          }
+        },
+        "7625c0fd-6d17-49a5-a69b-f93016821d4a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/counter-signs_b06fb432-a8e7-4bb0-8211-27c40c6a3b7a.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Products",
+            "link": "shopify:\/\/collections\/tabletop",
+            "text_alignment": "bottom left"
+          }
+        },
+        "003864b4-74f7-4e69-a297-3a46ad426592": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/65_0155f0b4-770e-436f-85dd-640b8199a202.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "c4891c2b-750f-4fec-817d-ece3b82479b7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/westcoastdesignandsurfvillas_e61da3e5-4acf-4de9-b8fc-82aa39aa717f.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/round-outdoor-shop-sign",
+            "text_alignment": "bottom left"
+          }
+        },
+        "636f9b97-e494-4997-8e2e-6ca8217fb5b7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/George-and-Willy-Standing-Lollipop-Sign_bd4ca58c-d013-41c3-8b0e-cd3ccc23f627.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/standing-round-sign",
+            "text_alignment": "bottom left"
+          }
+        },
+        "fd2e56c4-6725-4f94-9604-aeb388f2ef32": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/G_W-Card_Counter_Sign_web-25.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "a1e04e5e-f79a-4b25-8c3a-94ec31088aa1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/081A5150_2c705458-102b-4cae-8025-16c7abb60ff8.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "c0173be5-bee8-4c2f-b256-d66809ed2910": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/220324_Fusillo-G_W_web-1_81ce8c42-6e3b-43d3-a765-e9d79cfa3736.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "9849e176-4502-4f3a-9840-42d4fe1b6b43": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/220324_Fusillo-G_W_web-2_2b4f6458-09b0-4296-b952-c2c886c03da1.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "3fa9d9c0-cc0b-46b6-a33f-e9c8a86f9d0a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/220324_Fusillo-G_W_web-5_cface402-35c8-4a7f-8164-62eed2b428e8.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "da9f4b1a-2439-441e-9c93-7d3953dc4c00": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/A_Frame_Sign-12_16794c40-acc8-456b-a654-58d3e9b235a6.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "122b31cc-797b-4a41-87ec-e6532ca879d6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/A-frame_Sign_White_Pancake_f642db4f-c7e8-4836-a67c-6ec8ea95cd05.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "f8f018a0-6a7b-458b-8c21-9fd0c540cf37": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/A-Frame-Sign-1_eface12d-a056-4eff-bdba-073ef53915dc.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "c297e642-1650-4e36-827d-e0aac8963981": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fix_Fogg_Houston_0c832031-9a68-47ba-9c51-282582f3a60a.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "93a1e4b9-fb95-4ce4-8a20-155f9672803d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/George-_-Willy-A-Frame-Sandwich-Board_8c9c90a8-26b4-4c90-8829-3b689dc20235.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "c1a01a56-7614-409a-8395-adb9220c64c6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GW-Detail-AFrame-strap2_e7ddf699-754c-46cb-8b6e-bce47e899785.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "e5e29f27-d666-49c7-9176-6525adc2d53d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GW-Location-AFrame-094_872d531b-4311-4980-9bc6-9fe688bae4b6.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "429e892d-05fc-4330-af5e-0d7799a2753b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GW-Location-AFrame-198-new-_1_2f16b776-23aa-47e6-9860-98a4bdf9ab0d.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "2efc07dc-3f58-4f5f-abf3-f53db9c25dd1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GW-Solo-AFrame_b4c3c6f0-4b40-4016-872d-4f1f04813c64.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "44194590-eec8-472a-9895-b9e82ad54b29": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GW-Solo2-AFrame_d6c13f1a-aeb8-4f83-8d64-75cbcf5954cb.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "48a0483e-550e-4f3f-80e8-8549a11f1a40": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_4648-_1_20f0f2c4-4784-48ec-9f6a-197b3cf9de20.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "5e03bc60-8866-4bd9-872f-499fc4f2c4f0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-06-17_at_12.59.47_PM_b603bd16-21c3-48b7-b059-c727457f0823.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/a-frame-sign-sandwich-board",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "8536c815-e7d5-4383-8168-3a2e00580ec6",
+        "07e87958-22d2-4013-bf4e-329a3efc9295",
+        "651f05b7-4e6c-4452-9b92-5ba093885c55",
+        "dcb8b319-5daf-4b60-8d84-2ae6beb1918d",
+        "66f75d70-0180-46d9-b90d-43a820df28e5",
+        "a03dd2a0-3b41-4c40-bef3-a37f52916f74",
+        "bf7cb979-31b4-40df-96ad-3027c4790155",
+        "a9536371-67a9-42af-806c-f5d24b011729",
+        "9f197e71-20cd-47c1-abe8-d32793f53a85",
+        "81606d6c-8b5c-4e8a-b135-c4e923b04605",
+        "67212c40-2d63-4af2-b26a-4e122598d126",
+        "f60e37dc-6be3-4655-b0d1-290490c3d5f9",
+        "f4686e1c-f77f-4957-88a2-228625ba90df",
+        "f0008615-834f-4f91-8534-71403fad55dc",
+        "2915bbb9-773c-4d1e-873b-96c67322d6fb",
+        "eccc9912-20cd-4896-840e-84552980c686",
+        "4804c149-cfd3-4fdb-ab28-9696034254fe",
+        "d56275ce-9745-4317-85cb-cd651acbd783",
+        "6c7a69df-a8da-4cf7-a1d8-7ee4ee7dceb8",
+        "6909597d-d29b-4813-b672-80bacc179a02",
+        "82fa56c1-e080-4398-b7a4-15b618085bcf",
+        "ffd489e2-49c5-4dfb-848d-902f10e59c45",
+        "2d965db0-5ccb-41e7-a8d3-be89a1b29761",
+        "6411f60b-061c-48db-88a0-6c261c271d14",
+        "332b3a08-e300-4c59-be40-377375cedc27",
+        "c7e621e8-4671-47c8-abab-4ed45693a90a",
+        "97221e9f-6640-4056-9174-33709a91ebfa",
+        "56d7c375-2bde-4813-acae-b493fdf11e83",
+        "887aad41-e238-405d-8bc4-eadcea09c5fd",
+        "7625c0fd-6d17-49a5-a69b-f93016821d4a",
+        "003864b4-74f7-4e69-a297-3a46ad426592",
+        "c4891c2b-750f-4fec-817d-ece3b82479b7",
+        "636f9b97-e494-4997-8e2e-6ca8217fb5b7",
+        "fd2e56c4-6725-4f94-9604-aeb388f2ef32",
+        "a1e04e5e-f79a-4b25-8c3a-94ec31088aa1",
+        "c0173be5-bee8-4c2f-b256-d66809ed2910",
+        "9849e176-4502-4f3a-9840-42d4fe1b6b43",
+        "3fa9d9c0-cc0b-46b6-a33f-e9c8a86f9d0a",
+        "da9f4b1a-2439-441e-9c93-7d3953dc4c00",
+        "122b31cc-797b-4a41-87ec-e6532ca879d6",
+        "f8f018a0-6a7b-458b-8c21-9fd0c540cf37",
+        "c297e642-1650-4e36-827d-e0aac8963981",
+        "93a1e4b9-fb95-4ce4-8a20-155f9672803d",
+        "c1a01a56-7614-409a-8395-adb9220c64c6",
+        "e5e29f27-d666-49c7-9176-6525adc2d53d",
+        "429e892d-05fc-4330-af5e-0d7799a2753b",
+        "2efc07dc-3f58-4f5f-abf3-f53db9c25dd1",
+        "44194590-eec8-472a-9895-b9e82ad54b29",
+        "48a0483e-550e-4f3f-80e8-8549a11f1a40",
+        "5e03bc60-8866-4bd9-872f-499fc4f2c4f0"
+      ],
+      "settings": {
+        "gallery_title": "",
+        "grid": 3,
+        "desktop_image_height": 500,
+        "mobile_image_height": 380,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": true,
+        "use_alt_bg": false,
+        "enable_carousel": false,
+        "overlay_style": "no_background",
+        "button_style": "link"
+      }
+    },
+    "5c19e2a1-d95f-431b-a3e4-eb933974ab2f": {
+      "type": "gallery",
+      "blocks": {
+        "template--14617225658471__5c19e2a1-d95f-431b-a3e4-eb933974ab2f-1683085128e8161359-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/yolk_-_Florian_Groehn_304da598-3c85-4fc8-983e-8c98f5ac1c6b.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/magnetic-letter-menu-board",
+            "text_alignment": "bottom left"
+          }
+        },
+        "29727729-ea14-45c3-b96a-212f9d7d8bfe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/61_on_the_green-cred-_garethmcgaughey_e96e6282-23e2-498d-a1f7-9f3386e45aa9.jpg",
+            "alignment": "center center",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "button_label": "View Product",
+            "link": "shopify:\/\/products\/magnetic-letter-menu-board",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "template--14617225658471__5c19e2a1-d95f-431b-a3e4-eb933974ab2f-1683085128e8161359-0",
+        "29727729-ea14-45c3-b96a-212f9d7d8bfe"
+      ],
+      "settings": {
+        "gallery_title": "",
+        "grid": 2,
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "link"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "16566320477e0d5023",
+    "16563870001c42937e",
+    "5c19e2a1-d95f-431b-a3e4-eb933974ab2f",
+    "main"
+  ]
+}
