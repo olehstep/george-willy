@@ -10,12 +10,6 @@
     "f19ccd86-e1f2-4525-850e-6c3eec6bb72a": {
       "type": "rich-text",
       "blocks": {
-        "41d1ecb7-2ff2-4f21-b39d-8d71aef2b8e4": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "George & willy"
-          }
-        },
         "ec80b405-c9cd-494c-a6d4-72a07d0cdc34": {
           "type": "heading",
           "settings": {
@@ -32,7 +26,6 @@
         }
       },
       "block_order": [
-        "41d1ecb7-2ff2-4f21-b39d-8d71aef2b8e4",
         "ec80b405-c9cd-494c-a6d4-72a07d0cdc34",
         "4c8a48e9-4bf5-4521-96b7-f8f58d1c6a30"
       ],
@@ -50,13 +43,32 @@
         "image": "shopify:\/\/shop_images\/GW-Solo2_LargeSidewalkSign.jpg",
         "image_width": 700,
         "subheading": "",
-        "title": "",
+        "title": "Vinyl Decal Sign Writers",
         "use_h1": false,
-        "text": "<p><a href=\"https:\/\/www.cloudgraphicsinc.com\/\" target=\"_blank\" title=\"https:\/\/www.cloudgraphicsinc.com\/\"><strong>Cloud Graphics Inc.<\/strong><\/a><a href=\"https:\/\/www.cloudgraphicsinc.com\/decal\" target=\"_blank\" title=\"vinyl decal business\"><strong><br\/><\/strong><\/a>cloudgraphicsinc@gmail.com<br\/>830 Stockton St, San Francisco, CA 94108, United States<br\/>+1 415-296-1888<\/p><p><a href=\"https:\/\/www.printleaf.com\/vinyl-lettering\/\" target=\"_blank\" title=\"https:\/\/www.printleaf.com\/vinyl-lettering\/\"><strong>Print Leaf<\/strong><\/a><br\/>sales@printleaf.com<a href=\"https:\/\/www.printleaf.com\/vinyl-lettering\/\" target=\"_blank\" title=\"https:\/\/www.printleaf.com\/vinyl-lettering\/\"><strong><br\/><\/strong><\/a>30 W 47th St #405, New York, New York 10036, United States<br\/>+1 (212) 328-1174<\/p><p><a href=\"https:\/\/www.brooklyndecal.com\/\" target=\"_blank\" title=\"https:\/\/www.brooklyndecal.com\/\"><strong>Brooklyn Decal<br\/><\/strong><\/a>166 7th St Studio A12, Brooklyn, NY 11215, United States<\/p><p><a href=\"http:\/\/mypremiumgraphics.com\" target=\"_blank\" title=\"http:\/\/mypremiumgraphics.com\"><strong>My Premium Graphics<\/strong><\/a><strong><br\/><\/strong>2113 N Main St Ste 2, Cedar City, UT 84721, United States<br\/>+1 435-590-3791<\/p><p><strong>Tarra Massey<br\/><\/strong>tarra.massey@live.ca<\/p><p><a href=\"https:\/\/unitedstickerco.com\/\" target=\"_blank\" title=\"https:\/\/unitedstickerco.com\/\"><strong>United Sticker Company<\/strong><\/a><\/p>",
+        "text": "<p><a href=\"https:\/\/www.cloudgraphicsinc.com\/\" target=\"_blank\" title=\"https:\/\/www.cloudgraphicsinc.com\/\"><strong>Cloud Graphics Inc.<\/strong><\/a><a href=\"https:\/\/www.cloudgraphicsinc.com\/decal\" target=\"_blank\" title=\"vinyl decal business\"><strong><br\/><\/strong><\/a>cloudgraphicsinc@gmail.com<br\/>830 Stockton St, San Francisco, CA 94108, United States<br\/>+1 415-296-1888<\/p><p><a href=\"https:\/\/www.printleaf.com\/vinyl-lettering\/\" target=\"_blank\" title=\"https:\/\/www.printleaf.com\/vinyl-lettering\/\"><strong>Print Leaf<\/strong><\/a><br\/>sales@printleaf.com<a href=\"https:\/\/www.printleaf.com\/vinyl-lettering\/\" target=\"_blank\" title=\"https:\/\/www.printleaf.com\/vinyl-lettering\/\"><strong><br\/><\/strong><\/a>30 W 47th St #405, New York, New York 10036, United States<br\/>+1 (212) 328-1174<\/p><p><a href=\"https:\/\/www.brooklyndecal.com\/\" target=\"_blank\" title=\"https:\/\/www.brooklyndecal.com\/\"><strong>Brooklyn Decal<br\/><\/strong><\/a>166 7th St Studio A12, Brooklyn, NY 11215, United States<\/p><p><a href=\"http:\/\/mypremiumgraphics.com\" target=\"_blank\" title=\"http:\/\/mypremiumgraphics.com\"><strong>My Premium Graphics<\/strong><\/a><strong><br\/><\/strong>2113 N Main St Ste 2, Cedar City, UT 84721, United States<br\/>+1 435-590-3791<\/p><p><a href=\"https:\/\/vidasigns.com\/\" target=\"_blank\" title=\"https:\/\/vidasigns.com\/\"><strong>Vida Signs Inc.<\/strong><\/a><a href=\"https:\/\/www.printleaf.com\/vinyl-lettering\/\" target=\"_blank\" title=\"https:\/\/www.printleaf.com\/vinyl-lettering\/\"><strong><br\/><\/strong><\/a>25 Canal Street, New York 10002, <br\/>United States<\/p><p><strong>Tarra Massey<br\/><\/strong>tarra.massey@live.ca<\/p><p><a href=\"https:\/\/unitedstickerco.com\/\" target=\"_blank\" title=\"https:\/\/unitedstickerco.com\/\"><strong>United Sticker Company<\/strong><\/a><\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
         "image_position": "right",
+        "text_alignment": "left",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
+    "05692a45-c0ca-4311-8620-5238f21a62ac": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/fixercreative-and-_troyderose-2_7270a885-6b92-4e69-9c09-e269eb69be0b.jpg",
+        "image_width": 700,
+        "subheading": "",
+        "title": "Sign Painters",
+        "use_h1": false,
+        "text": "<p><a href=\"https:\/\/goldhandsigns.myportfolio.com\/projects\" target=\"_blank\"><strong>Gold Hand Signs<\/strong><\/a><br\/><a href=\"mailto:info@goldhandsigns.com\" target=\"_blank\">info@goldhandsigns.com<br\/><\/a>Mcminnville, Oregon<br\/>(503) 389-0255<\/p><p><a href=\"https:\/\/www.kerbel.design\/\" target=\"_blank\" title=\"https:\/\/www.kerbel.design\/\"><strong>Kerbel Design<\/strong><\/a><em><br\/><\/em><a href=\"mailto:lauren@kerbel.design\" title=\"mailto:lauren@kerbel.design\">lauren@kerbel.design<\/a><br\/>Toronto, Canada<br\/>(416) 902-1211<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
         "text_alignment": "left",
         "image_size": 150,
         "use_alt_bg": false
@@ -135,6 +147,7 @@
     "main",
     "f19ccd86-e1f2-4525-850e-6c3eec6bb72a",
     "d9e4e8a4-5994-4b4f-a272-4a46c90e5b5f",
+    "05692a45-c0ca-4311-8620-5238f21a62ac",
     "71efc780-9d8b-4770-b67a-5c1d68053ffc",
     "0e75eb27-5bcc-4132-8fd3-b625adc16e5b",
     "d93e2bd0-dfd1-4685-ad0f-9da11b267b17"

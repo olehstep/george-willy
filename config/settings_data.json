@@ -1010,7 +1010,7 @@
     "coll_grid_show_count": true,
     "prod_thumb_shape": "square",
     "prod_thumb_crop": true,
-    "prod_thumb_mob_per_row": "1",
+    "prod_thumb_mob_per_row": "2",
     "prod_thumb_text_align": "left",
     "prod_thumb_hover_image": true,
     "quickbuy_style": "off",
@@ -1025,7 +1025,7 @@
     "prod_pre_order_label_show": false,
     "enable_product_reviews_collection": false,
     "swatch_enabled": true,
-    "swatch_option_name": "Color,Colour,Couleur,Farbe,Rail Color,Letter Color,Board Color,Strap Color",
+    "swatch_option_name": "Color,Colour,Couleur,Farbe,Rail Color,Letter Color,Board Color,Strap Color,Tile Color",
     "swatch_method": "standard",
     "swatch_value_list": "White:#ffffff\nBlack:#000000\nBlue:#7897A1\nYellow:#FAD816\nPink:#EDD5DB\nSage:#97A685\nLight Grey:#CFCFCF\nDark Grey:#3A3B3B\nPurple:#C8B6FF\nMidnight Navy:#130734\nOat:#F1E8E4\nBronze:bronze.png\nGreen:green.png\nWooden:wooden.png\nAluminum:aluminum.png\nRaw:raw.png\nBrass:brass.png",
     "swatch_style": "icon_circle",
@@ -1073,14 +1073,12 @@
         "blocks": {
           "be1e67f8-d42b-449e-bb89-e3108a3fc42c": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "<p>Now Introducing our Counter Signs in Color - <a href=\"\/collections\/counter-signs\" title=\"Counter Signs\">Shop Now!<\/a><\/p>"
+              "text": "<p>Enjoy 20% Off Sitewide - <a href=\"\/collections\/all\" title=\"All Products\">Shop Now!<\/a><\/p>"
             }
           },
           "c25a6448-f28d-4a63-83fa-4c5b633ff3a1": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
               "text": "<p>Lifetime Warranty  • 100 Day Returns • Express Shipping<\/p>"
             }
@@ -1094,9 +1092,9 @@
           "announcement_bar_col": "#f4c165",
           "announcement_text_col": "#fefbf4",
           "message_font_size": 15,
-          "show_social_icons": false,
+          "show_social_icons": true,
           "menu": "",
-          "show_country_selector": false,
+          "show_country_selector": true,
           "show_language_selector": false
         }
       },
@@ -1250,11 +1248,12 @@
         "type": "popup",
         "settings": {
           "mode": "disabled",
-          "popup_delay_seconds": 20,
+          "popup_delay_seconds": 10,
           "popup_dismiss_for_days": 2,
-          "position": "bottom-left",
-          "title": "",
-          "text": "",
+          "position": "center",
+          "title": "Enjoy 20% Off!",
+          "text": "<p>We're running a sitewide sale, shop now<\/p>",
+          "image": "shopify:\/\/shop_images\/George-_-Willy-0151---yellow-copy.jpg",
           "show_newsletter": false,
           "show_social_icons": false
         }
