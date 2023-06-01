@@ -326,15 +326,11 @@
                           <a href="#" data-quantity="down">{% render 'svg-minus' %}</a>
                           <input aria-label="{{ 'products.product.quantity' | t }}" id="quantity" type="text" name="quantity" value="1" />
                           <a href="#" data-quantity="up">{% render 'svg-plus' %}</a>
-                       <div class="ships-from-eu">
-                        {{ 'Ships-From-the-US.png' | asset_url | img_tag: 'Ships from eu' }}
-                      </div>  
-                      
-                      </div>
+                          <div class="ships-from-eu">
+                            {{  'Ships-From-the-US.png' | asset_url | img_tag: 'Ships from eu' }}
+                          </div>  
+                        </div>
                       {% endif %}
-                      
-                     
-                      
                       
                       <div class="quantity-submit-row__submit input-row">
                         {%- capture add_to_cart_text -%}
@@ -685,6 +681,27 @@
 </div>
 
 {% render 'structured-data-product', product: product, current_variant: product.selected_or_first_available_variant %}
+
+<script>
+  if(window.location.href.indexOf('ca.georgeandwilly.com') > -1){
+    const myInterval = setInterval(myTimer, 1000);
+    var t = 0;
+
+    function myTimer() {
+      t++;
+      if (document.querySelector('.ships-from-eu') != null) {
+        document.querySelector('.ships-from-eu').classList.add('hidden');
+        myStopFunction();
+      } else if (t > 10) {
+        myStopFunction();
+      }
+    }
+  
+    function myStopFunction() {
+      clearInterval(myInterval);
+    }
+  }
+</script>
 
 
 {% schema %}
