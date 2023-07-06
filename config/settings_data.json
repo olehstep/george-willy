@@ -998,6 +998,7 @@
     "capitalize_headings": false,
     "type_base_font": "archivo_n4",
     "type_nav_font": "cooper_bt_n5",
+    "bold_mobile_nav": false,
     "type_logo_font": "futura_n4",
     "font_size_heading_int": 30,
     "font_size_base_int": 16,
@@ -1073,12 +1074,14 @@
         "blocks": {
           "be1e67f8-d42b-449e-bb89-e3108a3fc42c": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "<p>Enjoy 20% Off Sitewide - <a href=\"\/collections\/all\" title=\"All Products\">Shop Now!<\/a><\/p>"
             }
           },
           "c25a6448-f28d-4a63-83fa-4c5b633ff3a1": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "<p>Lifetime Warranty  • 100 Day Returns • Express Shipping<\/p>"
             }
@@ -1103,16 +1106,65 @@
         "blocks": {
           "afa1c782-b705-4637-b59c-7871489161ed": {
             "type": "menu-promotion-small",
+            "disabled": true,
             "settings": {
               "dropdown_link_title": "About Us",
               "image": "shopify:\/\/shop_images\/Lightbox-95.jpg",
               "title": "",
               "link_url": ""
             }
+          },
+          "abe411ce-1193-4e14-b7f3-898d1e988e93": {
+            "type": "image-for-mobile-menu",
+            "settings": {
+              "top_level_link_title": "Shop all",
+              "image": "shopify:\/\/shop_images\/Shop_all.png"
+            }
+          },
+          "02cf29dd-4f38-4b80-b669-391203eb8347": {
+            "type": "image-for-mobile-menu",
+            "settings": {
+              "top_level_link_title": "Signage",
+              "image": "shopify:\/\/shop_images\/SIGNAGE.jpg"
+            }
+          },
+          "05382df1-9e2e-4101-b7e1-6a4cc7b94834": {
+            "type": "image-for-mobile-menu",
+            "settings": {
+              "top_level_link_title": "Menu displays",
+              "image": "shopify:\/\/shop_images\/MENU_DISPLAYS.jpg"
+            }
+          },
+          "cd5a8110-022f-4e44-a149-56e19b031328": {
+            "type": "image-for-mobile-menu",
+            "settings": {
+              "top_level_link_title": "Tabletop",
+              "image": "shopify:\/\/shop_images\/TABLETOP.jpg"
+            }
+          },
+          "3d04d742-09f3-4d42-8068-55edb615457d": {
+            "type": "image-for-mobile-menu",
+            "settings": {
+              "top_level_link_title": "For your home",
+              "image": "shopify:\/\/shop_images\/FOR_YOUR_HOME.jpg"
+            }
+          },
+          "8bb04a9b-a009-4cbb-a611-c857d8060f9e": {
+            "type": "image-for-mobile-menu",
+            "settings": {
+              "top_level_link_title": "Shipping",
+              "image": "shopify:\/\/shop_images\/SHIPPING.jpg"
+            }
           }
         },
         "block_order": [
-          "afa1c782-b705-4637-b59c-7871489161ed"
+          "afa1c782-b705-4637-b59c-7871489161ed",
+          "abe411ce-1193-4e14-b7f3-898d1e988e93",
+          "02cf29dd-4f38-4b80-b669-391203eb8347",
+          "05382df1-9e2e-4101-b7e1-6a4cc7b94834",
+          "cd5a8110-022f-4e44-a149-56e19b031328",
+          "3d04d742-09f3-4d42-8068-55edb615457d",
+          "8bb04a9b-a009-4cbb-a611-c857d8060f9e"
         ],
         "settings": {
           "logo": "shopify:\/\/shop_images\/G_W-Logo---Simple---Green-Text---300-px-wide.png",
@@ -1125,9 +1177,9 @@
           "menu_layout": "underneath",
           "nav_featured_link": "Sale",
           "enable_mobile_promo_carousel": true,
-          "enable_nav_mob_products": false,
+          "enable_nav_mob_products": true,
           "nav_mob_products_title": "Best Sellers",
-          "nav_mob_products_collection": "",
+          "nav_mob_products_collection": "best-sellers",
           "enable_search": true,
           "search_suggestions_title": "What are you looking for?",
           "search_suggestions_menu": "collection-sidebar",

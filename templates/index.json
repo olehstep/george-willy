@@ -2,6 +2,7 @@
   "sections": {
     "9f9f9e70-2a53-4cd6-b1ba-dc6904332b23": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Banner_1_Test-min.jpg",
         "mobile_image": "shopify:\/\/shop_images\/Banner_1_Test_Mobile-min.jpg",
@@ -30,6 +31,7 @@
     },
     "044a2fc6-162e-4bfc-b19f-d3f17fc04515": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Banner_2_Test-min.jpg",
         "mobile_image": "shopify:\/\/shop_images\/Banner_2_Test_Mobile-min.jpg",
@@ -60,7 +62,7 @@
       "type": "image-with-text-overlay",
       "settings": {
         "image": "shopify:\/\/shop_images\/Banner_3_Test-min.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/Banner_2_Test_Mobile-min.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/English-SQ_1b57611e-f05d-4e83-b1f9-fe86f833e6c3.jpg",
         "image_position": "center center",
         "mobile_image_position": "center center",
         "height": "adapt",
@@ -70,7 +72,7 @@
         "subheading": "",
         "title": "Looking for Creative Signage <br>Products to enhance your brand?",
         "title_size": 40,
-        "title_size_mobile": 30,
+        "title_size_mobile": 24,
         "use_h1": false,
         "text": "",
         "enlarge_text": true,
@@ -80,7 +82,7 @@
         "button_url_2": "",
         "text_alignment": "center left",
         "full_width": true,
-        "mobile_overlay_under": false,
+        "mobile_overlay_under": true,
         "overlay_style": "no_background"
       }
     },
