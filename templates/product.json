@@ -116,6 +116,7 @@
         },
         "307bb432-10b4-4150-940d-514d6debf885": {
           "type": "related_products",
+          "disabled": true,
           "settings": {
             "metafield_key": "custom.related_products_title",
             "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].complementary_products.value }}"
@@ -153,6 +154,7 @@
     },
     "e22599fd-eff9-451d-8980-7b9503738251": {
       "type": "metafields-gallery",
+      "disabled": true,
       "blocks": {
         "0c44e5b2-c22b-4cd4-95aa-1e9f4be9a9c2": {
           "type": "image",
@@ -211,6 +213,7 @@
     },
     "b2801bd3-2747-40bc-a539-a8dd87cfbf59": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "8250a9c8-c43d-4db6-9bd3-66cd3dc406a8": {
           "type": "button",
@@ -267,7 +270,7 @@
         "enable_carousel": true,
         "grid": 4,
         "rows": 1,
-        "use_alt_bg": true,
+        "use_alt_bg": false,
         "show_view_all": true,
         "full_width": true
       }
