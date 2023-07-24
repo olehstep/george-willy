@@ -33,7 +33,7 @@
             "disable_unavailable_variants": true,
             "show_size_chart": false,
             "size_chart_variant": "Colour",
-            "size_chart_page": ""
+            "size_chart_page": "wooden-letter-board-sizing-guide"
           }
         },
         "buy_buttons": {
@@ -68,7 +68,7 @@
           "settings": {
             "title": "Specifications",
             "icon": "ruler",
-            "content": "<p> Small A6 Menu Holder: 5.5\"\/14cm (H) x 4.7\"\/12cm (W)<\/p>\n<p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Small_Menu_Holder.pdf?v=1687120582\" target=\"_blank\">View Specifications PDF<\/a><\/p>\n<p>Medium A5 Menu Holder: 8.2\"\/21cm (H) x 6.4\"\/16.5cm (W)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Medium_Menu_Holder.pdf?v=1687120582\" target=\"_blank\">View Specifications PDF<\/a><\/p>\n<p>Tall A6 Menu Holder: 11\"\/27.7cm (H) x 4.7\"\/12cm (W)<\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0186\/5604\/files\/Small_Tall_Menu_Holder.pdf?v=1687120582\" target=\"_blank\">View Specifications PDF<\/a><\/p>",
+            "content": "<p>Sign Face: 7\" x mm\/0.43” x 4.5cm\/1.77”<br>Sign Height: 12.3cm\/4.85”<br>Magnet Letters: 0.8cm\/0.3” x 0.5cm\/0.2”<\/p>",
             "page": "",
             "open": false,
             "show_in_quickbuy": false
@@ -85,12 +85,12 @@
             "show_in_quickbuy": false
           }
         },
-        "5381ce67-c25d-41aa-8751-b071eb475711": {
+        "021ebf5c-db46-4445-b57e-49081733d4c3": {
           "type": "accordion",
           "settings": {
             "title": "FAQs",
             "icon": "question_mark",
-            "content": "<h3>How big are the faceplates on the metal table signs?<\/h3>\n<p>The Small Menu Holder is 5.5\"\/14cm (H) x 4.7\"\/12cm (W), the Medium Menu Holder is 8.2\"\/21cm (H) x 6.4\"\/16.5cm (W) &amp; the Tall Menu holder 11\"\/27.7cm (H) x 4.7\"\/12cm (W).\n<\/p><h3>Can I use both sides of the Menu Holders?<\/h3>\n<p>Yes, you can! The faceplate is clear on both sides so you can print your message to read on both sides.<\/p>\n<h3>Do paper or card menus come with the Menu Holders?<\/h3>\n<p>The paper menu holders do not come with card or paper menus, but they're very easy to have printed at your local stationery store and can be cut to size as per the product dimensions above.<\/p>\n<h3>Can the Menu Holders be used outdoors?<\/h3>\n<p>Unfortunately, the paper menu displays are only designed for use indoors and they are not considered water or weatherproof.<\/p>\n<h3>Are the Menu Holders magnetic?<\/h3>\nNo they are not magnetic but the <a href=\"\/products\/table-talkers\" target=\"_blank\">Table Talkers<\/a> are compatible with magnets. \n<h3>How many Menu Holders will come in each pack?<\/h3>\n<p>Each pack comes with 3 paper menu holders.<\/p>\n<h3>What material is the metal menu sign made from?<\/h3>\n<p>The standing menu signs are made from Aluminum.<\/p>\n<h3>What other countertop options does George &amp; Willy sell?<\/h3>\n<p>We also sell the <a href=\"\/products\/counter-signs\" target=\"_blank\">Counter Signs<\/a>, the <a href=\"\/products\/standing-counter-signs\" target=\"_blank\">Standing Counter Signs<\/a>, the <a href=\"\/products\/table-top-sign\" target=\"_blank\" title=\"Tabletop Sign\">Tabletop Sign<\/a>, the <a href=\"\/products\/circle-sign\" target=\"_blank\" title=\"George &amp; Willy Circle Store Sign\">Circle Sign<\/a>, and the <a href=\"\/products\/card-counter-signs\" target=\"_blank\">Card Counter Signs<\/a> for something a little different. Have a look at our complete <a href=\"\/collections\/tabletop\" target=\"_blank\">Tabletop Collection<\/a> for more.<\/p>",
+            "content": "<h3>How big is the faceplate on the metal Standing Circle Counter Sign?<\/h3>\n<p>The faceplate on the metal Standing Circle Counter Sign measures 7cm\/2.7” x 4.5cm\/1.77”.<\/p>\n<h3>How many letters and numbers come with the Standing Counter Signs?<\/h3>\n<p>Each order of the cabinet price signs comes with two sheets of magnet letters and numbers, with 1,680 symbols in total.<\/p>\n<h3>How many Standing Circle Counter Signs will come in each pack?<\/h3>\n<p>Each pack comes with 12 Counter Signs and two sheets of magnetic letters.<\/p>\n<h3>What material is the metal price sign made from?<\/h3>\n<p>The price and product signs are made from magnetic steel.<\/p>\n<h3>How can I display messages on the metal Standing Circle Counter Signs?<\/h3>\n<p>The Standing Circle Counter Signs can be used with the magnet letters supplied, or you could apply a vinyl decal for a more permanent message. <\/p>\n<h3>What other countertop options does George &amp; Willy sell?<\/h3>\n<p>We also sell the <a href=\"\/products\/counter-signs\" target=\"_blank\" title=\"Counter Signs - Set of 12\">Counter Signs<\/a>, <a href=\"\/products\/card-counter-signs\" target=\"_blank\">Card Counter Signs<\/a>, the <a href=\"\/products\/pricing-signs\" target=\"_blank\">Pricing Signs<\/a>, the <a href=\"\/products\/table-talkers\" target=\"_blank\" title=\"Table Talkers - Set of 6\">Table Talkers<\/a>, and the <a href=\"\/products\/table-numbers\" target=\"_blank\" title=\"George and Willy Table Numbers\">Table Number Flags<\/a> for something different. Have a look at our complete <a href=\"\/collections\/tabletop\" target=\"_blank\">Tabletop Collection<\/a> for more.<\/p>",
             "page": "",
             "open": false,
             "show_in_quickbuy": false
@@ -121,7 +121,7 @@
         "67b24d17-bd77-49fb-8832-19334a00a603",
         "71d53735-ebfe-4222-a023-951cf8c6117e",
         "9a099f4c-1391-4b37-a4aa-1750438e0bf8",
-        "5381ce67-c25d-41aa-8751-b071eb475711",
+        "021ebf5c-db46-4445-b57e-49081733d4c3",
         "bce194fb-2905-40b4-a870-732bd608f8e1"
       ],
       "settings": {
@@ -135,46 +135,6 @@
         "enable_video_looping": false,
         "enable_var_img_grouping": false,
         "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
-      }
-    },
-    "1655433090c7499e59": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "section_bg": "#fefbf4",
-        "image": "shopify:\/\/shop_images\/Menu-holder-for-table.jpg",
-        "image_width": 700,
-        "subheading": "",
-        "title": "Display Your Way",
-        "use_h1": false,
-        "text": "<p>Opt to mount on the wall or tables using the base provided.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "link",
-        "image_position": "right",
-        "text_alignment": "center",
-        "image_size": 150,
-        "use_alt_bg": false
-      }
-    },
-    "0026b2bd-ef58-4084-aa58-eb1787db36e3": {
-      "type": "image-with-text",
-      "disabled": true,
-      "settings": {
-        "section_bg": "#fefbf4",
-        "image": "shopify:\/\/shop_images\/Tabletop_Menu_Displays.gif",
-        "image_width": 700,
-        "subheading": "",
-        "title": "You've Got Options",
-        "use_h1": false,
-        "text": "<p>Display menus or messages with printed paper, vinyl decals, or add some magnet letters.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "link",
-        "image_position": "left",
-        "text_alignment": "center",
-        "image_size": 150,
-        "use_alt_bg": false
       }
     },
     "1655433418cebadf50": {
@@ -246,8 +206,6 @@
   },
   "order": [
     "main",
-    "1655433090c7499e59",
-    "0026b2bd-ef58-4084-aa58-eb1787db36e3",
     "1655433418cebadf50",
     "16534294759f628925",
     "1655859379d08f0f7b",

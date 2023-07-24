@@ -24,12 +24,12 @@
         <div class="cart-item-list__body">
           {% assign intelligems_total = 0 %}
           {% for item in cart.items %}
-            {% case item.properties._igLineItemDiscount %}
+            {% case item.properties._igp %}
               {% when "0" or nil or blank %}
                 {% assign intelligems_discount = 0 %}
               {% else %}
-                {% assign intelligems_discount = item.properties._igLineItemDiscount | plus: 0 %}
-                {% assign intelligems_total = intelligems_total | plus: item.properties._igLineItemDiscount %}
+                {% assign intelligems_discount = item.properties._igp | plus: 0 %}
+                {% assign intelligems_total = intelligems_total | plus: item.properties._igp %}
             {% endcase %}
             <div class="cart-item product-{{ item.product.handle }}" data-cc-animate>
               {%- comment -%}
@@ -98,11 +98,11 @@
                     <ul class="cart-discount-list">
                     {% for discount_allocation in item.line_level_discount_allocations %}
                       {% assign imessage = discount_allocation.discount_application.title %}
-                      {% if imessage and imessage != "" and imessage != "Intelligems" %}
+                      {% if imessage and imessage != "" and imessage != "Discount" %}
                       <li class="cart-discount">
                         <div class="cart-discount__label">
                             <span class="cart-discount__icon">{% render 'icon-label' %}</span>
-                            <span class="cart-discount__title">{{ discount_allocation.discount_application.title }}</span>
+                            <span class="cart-discount__title">{{ discount_allocation.discount_application.title }}!</span>
                         </div>
                         <div class="cart-discount__amount theme-money">{{ discount_allocation.amount | money }}</div>
                       </li>
