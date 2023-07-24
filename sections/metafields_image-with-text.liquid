@@ -1,0 +1,195 @@
+{%- liquid
+  assign metafield_key = section.settings.metafield_key | split: "."
+-%}
+
+{%liquid
+  assign visible = product.metafields.custom[metafield_key[1]].value.display
+  assign section_bg = product.metafields.custom[metafield_key[1]].value.background_color
+  assign image_position = product.metafields.custom[metafield_key[1]].value.right_image
+  assign button_link = product.metafields.custom[metafield_key[1]].value.button_link
+  assign image_1 = product.metafields.custom[metafield_key[1]].value.image_1 | image_url
+  assign image_2 = product.metafields.custom[metafield_key[1]].value.image_2 | image_url
+  assign subheading = product.metafields.custom[metafield_key[1]].value.subheading
+  assign heading = product.metafields.custom[metafield_key[1]].value.heading
+  assign text = product.metafields.custom[metafield_key[1]].value.text | metafield_tag
+  assign button_label = product.metafields.custom[metafield_key[1]].value.button_label
+  assign logo = product.metafields.custom[metafield_key[1]].value.logo | image_url
+%}
+
+{% if visible == true and metafield_key[0] == 'custom' %}
+  <div
+    class="{% if section.settings.use_alt_bg %}use-alt-bg fully-padded-row--medium{% else %}fully-spaced-row--medium{% endif %} text-with-img"
+    style="{% if section_bg != blank %}background-color:{{ section_bg | escape }};{% endif %}"
+  >
+    <div class="container">
+      <div class="flexible-layout valign-middle">
+        <div class="column column--half {% if image_position == true %}column--order-push-desktop{% endif %} no-padding">
+          {% if button_link != blank -%}
+            <a class="block-link" href="{{ button_link }}">
+          {%- endif %}
+          <div class="image-overlap" style="max-width: {{ section.settings.image_width }}px">
+            <div class="image-overlap__image image-overlap__image-1">
+              {%- if image_1 == blank -%}
+                <div class="placeholder-image">{{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}</div>
+              {%- else -%}
+                {%- render 'responsive-image',
+                  image: image_1,
+                  animate: true,
+                  animate_delay: '0.1s',
+                  animate_type: 'cc-fade-in-up'
+                -%}
+              {%- endif -%}
+            </div>
+
+            {%- if image_1 == blank or image_2 != blank -%}
+              <div class="image-overlap__image image-overlap__image-2">
+                {%- if image_2 == blank -%}
+                  <div class="placeholder-image">{{ 'image' | placeholder_svg_tag: 'placeholder-svg' }}</div>
+                {%- else -%}
+                  {%- render 'responsive-image',
+                    image: image_2,
+                    animate: true,
+                    animate_delay: '0.3s',
+                    animate_type: 'cc-fade-in-up'
+                  -%}
+                {%- endif -%}
+              </div>
+            {%- endif -%}
+          </div>
+          {% if button_link != blank %}</a>{% endif %}
+        </div>
+        <div class="column column--half align-{{ section.settings.text_alignment }}" data-cc-animate>
+          <div class="feature-text-paired">
+            {%- if subheading != blank -%}
+              <div class="subheading subheading--over">{{ subheading | escape }}</div>
+            {%- endif -%}
+
+            {% if heading != blank %}
+              {% if section.settings.use_h1 %}
+                <h1 class="majortitle in-content">{{ heading | escape }}</h1>
+              {% else %}
+                <h2 class="majortitle in-content h1-style">{{ heading | escape }}</h2>
+              {% endif %}
+            {% endif %}
+
+            <div class="rte">{{ text }}</div>
+
+            {% if button_label != blank %}
+              <div class="lightly-spaced-row-above">
+                <a
+                  class="{% if section.settings.button_style != 'link' %}btn btn--{{ section.settings.button_style }}{% else %}small-feature-link{% endif %}"
+                  href="{{ button_link }}"
+                >
+                  {{- button_label | escape -}}
+                </a>
+              </div>
+            {% endif %}
+
+            {% if logo != blank %}
+              <div class="press-logo">
+                <img
+                  style="width:{{ section.settings.image_size | escape }}px; "
+                  src="{{ logo | image_url }}"
+                >
+              </div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}
+
+{% schema %}
+{
+  "name": "Image & text - metafields",
+  "class": "section-image-with-text",
+  "settings": [
+    {
+      "type": "text",
+      "id": "metafield_key",
+      "label": "Content",
+      "info": "Formating: custom.metafield_key"
+    },
+    {
+      "type": "range",
+      "id": "image_width",
+      "min": 150,
+      "max": 700,
+      "step": 10,
+      "unit": "px",
+      "label": "Image width",
+      "default": 700
+    },
+    {
+      "type": "checkbox",
+      "id": "use_h1",
+      "label": "Set as primary page heading",
+      "info": "Uses <h1> tag (used for SEO and accessibility). One per page recommended.",
+      "default": false
+    },
+    {
+      "type": "select",
+      "id": "button_style",
+      "label": "Button style",
+      "default": "primary",
+      "options": [
+        {
+          "label": "Button - primary",
+          "value": "primary"
+        },
+        {
+          "label": "Button - secondary",
+          "value": "secondary"
+        },
+        {
+          "label": "Link",
+          "value": "link"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "text_alignment",
+      "label": "Text alignment",
+      "default": "left",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ]
+    },
+    {
+      "type": "range",
+      "id": "image_size",
+      "min": 100,
+      "max": 400,
+      "step": 10,
+      "unit": "px",
+      "label": "Logo Size",
+      "default": 150
+    },
+    {
+      "type": "checkbox",
+      "id": "use_alt_bg",
+      "label": "Use alternate section color",
+      "default": false
+    }
+  ],
+  "presets": [
+    {
+      "name": "Image & text - metafields",
+      "settings": {}
+    }
+  ]
+}
+{% endschema %}
