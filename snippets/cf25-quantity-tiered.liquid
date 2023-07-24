@@ -19,7 +19,9 @@
               </div>
               <div class="cf25-quantity-item">
                 <div class="cf25-quantity-num" data-val="2">2</div>
-                <div class="cf25-savings">Save 5%</div>
+                {% unless product.tags contains "no tiered discount" %}
+                  <div class="cf25-savings">Save 5%</div>
+                {% endunless %}
               </div>
               <div class="cf25-quantity-item">
                 <div class="cf25-quantity-num" data-val="3">3</div>
