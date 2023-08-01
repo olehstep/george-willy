@@ -1351,6 +1351,12 @@
       },
       {
         "type": "checkbox",
+        "id": "cf04_imp",
+        "label": "Enable CF 04",
+        "default": true
+      },
+      {
+        "type": "checkbox",
         "id": "enable_cf06",
         "label": "Enable CF 06",
         "default": true
