@@ -35,15 +35,6 @@
     },
     "9aff87ed-2cab-47b3-9ced-1cfb629c3c19": {
       "type": "apps",
-      "blocks": {
-        "e7b513a9-8723-4b6f-b758-c9fa0d2dd655": {
-          "type": "shopify:\/\/apps\/boost-ai-search-discovery\/blocks\/product-filter\/7fc998ae-a150-4367-bab8-505d8a4503f7",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "e7b513a9-8723-4b6f-b758-c9fa0d2dd655"
-      ],
       "settings": {}
     }
   },
