@@ -316,6 +316,13 @@
       "type": "shogun-below",
       "settings": {
       }
+    },
+    "e078eeed-00f3-4f3d-a821-b5a860d580b4": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<script>\nwindow.addEventListener('load', function() {\nvar _learnq = window._learnq || [];\nfunction addedToCart() {\n  fetch(`${window.location.origin}\/cart.js`)\n  .then(res => res.clone().json().then(data => {\n    var cart = {\n      total_price: data.total_price\/100,\n      $value: data.total_price\/100,\n      total_discount: data.total_discount,\n      original_total_price: data.original_total_price\/100,\n      items: data.items\n    }\n    if (item !== 'undefined') {\n      cart = Object.assign(cart, item)\n    }\n    if (klAjax) {\n        _learnq.push(['track', 'Added to Cart', cart]);\n        klAjax = false;\n      }\n  }))\n};\n(function (ns, fetch) {\n  ns.fetch = function() {\n    const response = fetch.apply(this, arguments);\n    response.then(res => {\n      if (`${window.location.origin}\/cart\/add.js`\n      \t.includes(res.url)) {\n        \taddedToCart()\n      }\n    });\n    return response\n  }\n}(window, window.fetch));\nvar klAjax = true;\nvar atcButtons = document.querySelectorAll(\"form[action*='\/cart\/add'] button[type='submit']\");\nfor (var i = 0; i < atcButtons.length; i++) {\n    atcButtons[i].addEventListener(\"click\", function() {\n      if (klAjax) {\n        _learnq.push(['track', 'Added to Cart', item]);\n        klAjax = false;\n      }\n    })\n}\n});\n<\/script>"
+      }
     }
   },
   "order": [
@@ -328,6 +335,7 @@
     "4e61a570-e243-4ca0-aaf6-cb2c86675828",
     "1655859379d08f0f7b",
     "recommendations",
-    "shogun-below"
+    "shogun-below",
+    "e078eeed-00f3-4f3d-a821-b5a860d580b4"
   ]
 }
