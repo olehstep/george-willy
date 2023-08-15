@@ -4566,6 +4566,7 @@
     }
 
     var $thumbnails = $('.thumbnails:not(.hidden)', container);
+    var $mainImage = $('.main-image', container);
     if ($thumbnails.length) {
       var carouselVisibleItemCount = 6,
       isCarousel = false;
@@ -4585,6 +4586,10 @@
 
             // trigger variant image grouping
             $gallery.closest('.product-detail').find('.original-selector').trigger('change');
+
+            // change thumbnail block height
+            console.log("kjh-1", $mainImage);
+            console.log("kjh-2", $mainImage.height());
           }
         } else {
           // thumbnails underneath - init carousel
