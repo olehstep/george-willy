@@ -4588,6 +4588,7 @@
             $gallery.closest('.product-detail').find('.original-selector').trigger('change');
           }
           // change thumbnail block height
+          $thumbnails.style.height = $mainImage.height();
           console.log("kjh-1", $mainImage);
           console.log("kjh-2", $mainImage.height());
         } else {
