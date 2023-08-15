@@ -1,5 +1,15 @@
 {
   "sections": {
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {
+      }
+    },
+    "shogun-above": {
+      "type": "shogun-above",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-metafields-product",
       "blocks": {
@@ -156,7 +166,6 @@
     },
     "e22599fd-eff9-451d-8980-7b9503738251": {
       "type": "metafields-gallery",
-      "disabled": true,
       "blocks": {
         "0c44e5b2-c22b-4cd4-95aa-1e9f4be9a9c2": {
           "type": "image",
@@ -197,6 +206,7 @@
         "bc102b1d-acd8-4c0d-8f1c-355e59acfbb5",
         "0190a063-1b22-41ae-a1c8-bd654e1e8bb4"
       ],
+      "disabled": true,
       "settings": {
         "metafield_key": "custom.gallery_title",
         "grid": 2,
@@ -215,7 +225,6 @@
     },
     "b2801bd3-2747-40bc-a539-a8dd87cfbf59": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "8250a9c8-c43d-4db6-9bd3-66cd3dc406a8": {
           "type": "button",
@@ -229,6 +238,7 @@
       "block_order": [
         "8250a9c8-c43d-4db6-9bd3-66cd3dc406a8"
       ],
+      "disabled": true,
       "settings": {
         "height": "medium",
         "text_alignment": "center",
@@ -302,19 +312,16 @@
         "grid": 4
       }
     },
-    "shogun-above": {
-      "type": "shogun-above",
-      "settings": {
-      }
-    },
     "shogun-below": {
       "type": "shogun-below",
       "settings": {
       }
     },
-    "shogun-helper": {
-      "type": "shogun-helper",
+    "0782424b-3512-4070-bf2a-750429f37fe4": {
+      "type": "custom-liquid",
       "settings": {
+        "full_width": true,
+        "code": ""
       }
     }
   },
@@ -328,6 +335,7 @@
     "4e61a570-e243-4ca0-aaf6-cb2c86675828",
     "1655859379d08f0f7b",
     "recommendations",
-    "shogun-below"
+    "shogun-below",
+    "0782424b-3512-4070-bf2a-750429f37fe4"
   ]
 }
