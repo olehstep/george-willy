@@ -4573,7 +4573,6 @@
 
       /// Screen-width based initialisation of thumbnail carousels
       var assessCarousel = function assessCarousel() {
-        console.log("kjh");
         if ($thumbnails.parent().css('display') == 'flex') {
           // thumbnail container is in column beside main image - destroy carousel
           if (isCarousel) {
