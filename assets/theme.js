@@ -5073,7 +5073,7 @@
           if ($(this).is('input')) {
             $(this).val(newVal);
           } else {
-            $(this).html(newVal);
+            $(this).html(newVal + '<span class="theme-money">' + theme.Shopify.formatMoney(variant.price, theme.money_format_with_product_code_preference) + '</span>');
           }
         }
       });
