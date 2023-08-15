@@ -340,15 +340,8 @@
                             {{ 'products.product.add_to_cart' | t }}
                           {%- endif -%}
                         {%- endcapture -%}
-                        {%- capture add_to_cart_price -%}
-                          {%- if settings.product_currency_code_enabled -%}
-                            {{- current_variant.price | money_with_currency -}}
-                          {%- else -%}
-                            {{- current_variant.price | money -}}
-                          {%- endif -%}
-                        {%- endcapture -%}
                         <button class="button button--large" type="submit" data-add-to-cart-text="{{ add_to_cart_text | escape }}">
-                          {{- add_to_cart_text | append: '-' | append: add_to_cart_price -}}
+                          {{- add_to_cart_text -}}
                         </button>
                       </div>
                       {% if enable_dynamic_payment_button %}
