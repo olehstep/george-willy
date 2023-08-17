@@ -4,5 +4,16 @@
     "market": "eu-test"
   },
   "sections": {
+    "main": {
+      "settings": {
+      },
+      "blocks": {
+        "buy_buttons": {
+          "settings": {
+            "show_backorder_text": true
+          }
+        }
+      }
+    }
   }
 }
