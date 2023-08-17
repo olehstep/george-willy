@@ -460,5 +460,12 @@
       "pick_up_currently_unavailable": "Ramassage actuellement indisponible",
       "invalid_location_address": "Contacter la boutique pour confirmer l'adresse"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "shipping": {
+        "shipping_method_notice": "Pour les commandes en dehors des États-Unis, des frais de douane peuvent s'appliquer. Veuillez consulter notre politique d'expédition pour plus de détails."
+      }
+    }
   }
 }
