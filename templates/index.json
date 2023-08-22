@@ -88,7 +88,6 @@
     },
     "16359276425da8ce46": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "9eecaa80-fb07-4538-9370-b0981c2c9220": {
           "type": "image",
@@ -121,6 +120,7 @@
       "block_order": [
         "9eecaa80-fb07-4538-9370-b0981c2c9220"
       ],
+      "disabled": true,
       "settings": {
         "height": "fixed",
         "height_desktop": 660,
@@ -154,7 +154,7 @@
         "template--14550511779943__6650460b-9454-4a05-beef-4d8ef9edd167-1672145706f5b957a4-0": {
           "type": "heading",
           "settings": {
-            "title": "\"The Sign is just what I was looking for and everyone is commenting on how great it looks. Great service and fast shipping\"",
+            "title": "\"This is the only company that makes attractive signage.\"",
             "use_h1": false
           }
         },
