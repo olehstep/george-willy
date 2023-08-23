@@ -50,7 +50,7 @@
 
              {% if section.settings.logo != blank %}
           <div class="press-logo">
-          <img style="width:{{ section.settings.image_size | escape }}px; " src="{{ section.settings.logo | image_url }}">
+          <img style="width:{{ section.settings.image_size | escape }}px; " src="{{ section.settings.logo | image_url }}" alt="{{ section.settings.logo.alt | escape }}">
           </div>
           
            {% endif %}
