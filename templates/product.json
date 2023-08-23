@@ -47,14 +47,6 @@
             "show_pickup_availability": true
           }
         },
-        "c3a6e256-9bc0-48cb-8883-39d0b0f9e482": {
-          "type": "custom_liquid",
-          "disabled": true,
-          "settings": {
-            "custom_liquid": "<p>\nOrder now for delivery between: <span id=\"fromDate\"><\/span> - <span id=\"toDate\"><\/span><\/p>\n{{ '\/\/cdnjs.cloudflare.com\/ajax\/libs\/datejs\/1.0\/date.min.js' | script_tag }}\n<script>\nvar fromDate = Date.today().addDays(2);\nif (fromDate.is().saturday() || fromDate.is().sunday()) {\nfromDate = fromDate.next().monday();\n}\nvar toDate = Date.today().addDays(6);\nif (toDate.is().saturday() || toDate.is().sunday()) {\ntoDate = toDate.next().monday();\n}\ndocument.getElementById('fromDate').innerHTML = fromDate.toString('MMMM dS');\ndocument.getElementById('toDate').innerHTML = toDate.toString('MMMM dS');\n<\/script>",
-            "show_in_quickbuy": false
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -132,7 +124,6 @@
         "divider",
         "variant_picker",
         "buy_buttons",
-        "c3a6e256-9bc0-48cb-8883-39d0b0f9e482",
         "description",
         "67b24d17-bd77-49fb-8832-19334a00a603",
         "71d53735-ebfe-4222-a023-951cf8c6117e",
@@ -152,88 +143,6 @@
         "enable_video_looping": false,
         "enable_var_img_grouping": false,
         "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
-      }
-    },
-    "e22599fd-eff9-451d-8980-7b9503738251": {
-      "type": "metafields-gallery",
-      "disabled": true,
-      "blocks": {
-        "0c44e5b2-c22b-4cd4-95aa-1e9f4be9a9c2": {
-          "type": "image",
-          "settings": {
-            "metafield_key": "custom.gallery_item_1",
-            "alignment": "center center",
-            "text_alignment": "bottom left"
-          }
-        },
-        "169b536b-239c-4a56-8679-872e705f290c": {
-          "type": "image",
-          "settings": {
-            "metafield_key": "custom.gallery_item_2",
-            "alignment": "center center",
-            "text_alignment": "bottom left"
-          }
-        },
-        "bc102b1d-acd8-4c0d-8f1c-355e59acfbb5": {
-          "type": "image",
-          "settings": {
-            "metafield_key": "custom.gallery_item_3",
-            "alignment": "center center",
-            "text_alignment": "bottom left"
-          }
-        },
-        "0190a063-1b22-41ae-a1c8-bd654e1e8bb4": {
-          "type": "image",
-          "settings": {
-            "metafield_key": "custom.gallery_item_4",
-            "alignment": "center center",
-            "text_alignment": "bottom left"
-          }
-        }
-      },
-      "block_order": [
-        "0c44e5b2-c22b-4cd4-95aa-1e9f4be9a9c2",
-        "169b536b-239c-4a56-8679-872e705f290c",
-        "bc102b1d-acd8-4c0d-8f1c-355e59acfbb5",
-        "0190a063-1b22-41ae-a1c8-bd654e1e8bb4"
-      ],
-      "settings": {
-        "metafield_key": "custom.gallery_title",
-        "grid": 2,
-        "desktop_image_height": 460,
-        "mobile_image_height": 400,
-        "title_size": 30,
-        "title_size_mobile": 22,
-        "enable_margin": true,
-        "enable_row_spacing": true,
-        "full_width": false,
-        "use_alt_bg": false,
-        "enable_carousel": true,
-        "overlay_style": "full",
-        "button_style": "primary"
-      }
-    },
-    "b2801bd3-2747-40bc-a539-a8dd87cfbf59": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "8250a9c8-c43d-4db6-9bd3-66cd3dc406a8": {
-          "type": "button",
-          "settings": {
-            "button_label": "VIEW MORE CUSTOMER PHOTOS",
-            "button_link": "https:\/\/george-willy.myshopify.com\/pages\/atelier-letter-board-gallery",
-            "button_style": "primary"
-          }
-        }
-      },
-      "block_order": [
-        "8250a9c8-c43d-4db6-9bd3-66cd3dc406a8"
-      ],
-      "settings": {
-        "height": "medium",
-        "text_alignment": "center",
-        "full_width": false,
-        "use_alt_bg": false
       }
     },
     "4e2b090f-f40a-439d-be97-7aba07ccac2f": {
@@ -305,8 +214,6 @@
   },
   "order": [
     "main",
-    "e22599fd-eff9-451d-8980-7b9503738251",
-    "b2801bd3-2747-40bc-a539-a8dd87cfbf59",
     "4e2b090f-f40a-439d-be97-7aba07ccac2f",
     "4e61a570-e243-4ca0-aaf6-cb2c86675828",
     "1655859379d08f0f7b",
