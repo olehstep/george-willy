@@ -5,7 +5,7 @@
         {% if section.settings.button_link != blank %}<a class="block-link" href="{{ section.settings.button_link }}">{% endif %}
           <div class="full-img">
             {%- if section.settings.image != blank -%}
-               <img src="{{ section.settings.image | image_url  }}" class="kjh" alt="{{ section.settings.image.alt | escape }}">
+               <img src="{{ section.settings.image | image_url  }}" alt="{{ section.settings.image.alt | escape }}">
             {%- endif -%}
           </div>
 
