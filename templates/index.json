@@ -1,63 +1,5 @@
 {
   "sections": {
-    "9f9f9e70-2a53-4cd6-b1ba-dc6904332b23": {
-      "type": "image-with-text-overlay",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Banner_1_Test-min.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/Banner_1_Test_Mobile-min.jpg",
-        "image_position": "center center",
-        "mobile_image_position": "center center",
-        "height": "adapt",
-        "height_desktop": 600,
-        "height_mobile": 460,
-        "image_link": "",
-        "subheading": "",
-        "title": "Looking for Creative Signage <br>Products to enhance your brand?",
-        "title_size": 40,
-        "title_size_mobile": 30,
-        "use_h1": false,
-        "text": "",
-        "enlarge_text": true,
-        "button_label_1": "SHOP NOW",
-        "button_url_1": "https:\/\/www.georgeandwilly.com\/collections\/all",
-        "button_label_2": "",
-        "button_url_2": "",
-        "text_alignment": "center left",
-        "full_width": true,
-        "mobile_overlay_under": false,
-        "overlay_style": "no_background"
-      }
-    },
-    "044a2fc6-162e-4bfc-b19f-d3f17fc04515": {
-      "type": "image-with-text-overlay",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Banner_2_Test-min.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/Banner_2_Test_Mobile-min.jpg",
-        "image_position": "center center",
-        "mobile_image_position": "center center",
-        "height": "adapt",
-        "height_desktop": 600,
-        "height_mobile": 460,
-        "image_link": "",
-        "subheading": "",
-        "title": "Looking for Creative Signage <br>Products to enhance your brand?",
-        "title_size": 40,
-        "title_size_mobile": 30,
-        "use_h1": false,
-        "text": "",
-        "enlarge_text": true,
-        "button_label_1": "SHOP NOW",
-        "button_url_1": "https:\/\/www.georgeandwilly.com\/collections\/all",
-        "button_label_2": "",
-        "button_url_2": "",
-        "text_alignment": "center left",
-        "full_width": true,
-        "mobile_overlay_under": false,
-        "overlay_style": "no_background"
-      }
-    },
     "d2256895-af53-4616-b04b-58c855605a51": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -84,54 +26,6 @@
         "full_width": true,
         "mobile_overlay_under": true,
         "overlay_style": "no_background"
-      }
-    },
-    "16359276425da8ce46": {
-      "type": "slideshow",
-      "disabled": true,
-      "blocks": {
-        "9eecaa80-fb07-4538-9370-b0981c2c9220": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Banner-A-Frame-Mike_ec40f7b3-9fda-423f-b820-b816c4520019.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Banner-A-Frame-Mobile_490b3383-4ae9-4503-b573-7afd66d509bf.jpg",
-            "image_position": "center left",
-            "mobile_image_position": "left center",
-            "slide_link": "",
-            "subheading": "",
-            "title": "Looking for Creative Signage <br>Products to Enhance your Brand?",
-            "title_size": 40,
-            "title_size_mobile": 30,
-            "text": "",
-            "enlarge_text": true,
-            "button_label_1": "Shop Now",
-            "button_url_1": "shopify:\/\/collections\/all",
-            "button_label_2": "",
-            "button_url_2": "",
-            "text_alignment": "center left",
-            "cf06_textcolor": "#3e5842",
-            "cf06_curvedtitle": "",
-            "cf06_subtitle": "",
-            "cf06_btn_text": "",
-            "cf06_review_text": "",
-            "cf06_review_name": ""
-          }
-        }
-      },
-      "block_order": [
-        "9eecaa80-fb07-4538-9370-b0981c2c9220"
-      ],
-      "settings": {
-        "height": "fixed",
-        "height_desktop": 660,
-        "height_mobile": 460,
-        "full_width": true,
-        "mobile_overlay_under": false,
-        "overlay_style": "no_background",
-        "slide_transition": "instant",
-        "slide_navigation": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 1
       }
     },
     "1651721243512d65d5": {
@@ -611,10 +505,7 @@
     }
   },
   "order": [
-    "9f9f9e70-2a53-4cd6-b1ba-dc6904332b23",
-    "044a2fc6-162e-4bfc-b19f-d3f17fc04515",
     "d2256895-af53-4616-b04b-58c855605a51",
-    "16359276425da8ce46",
     "1651721243512d65d5",
     "6650460b-9454-4a05-beef-4d8ef9edd167",
     "ea347da6-0739-4dc1-9851-d79f83797745",
