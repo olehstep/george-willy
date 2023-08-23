@@ -90,6 +90,7 @@
                 <img
                   style="width:{{ section.settings.image_size | escape }}px; "
                   src="{{ logo | image_url }}"
+                  alt="{{ logo.alt | escape }}"
                 >
               </div>
             {% endif %}
