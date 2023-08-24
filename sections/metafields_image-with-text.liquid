@@ -25,7 +25,7 @@
       <div class="flexible-layout valign-middle">
         <div class="column column--half {% if image_position == true %}column--order-push-desktop{% endif %} no-padding">
           {% if button_link != blank -%}
-            <a class="block-link" href="{{ button_link }}">
+            <a class="block-link" href="{{ button_link }}" aria-label="{{ image_2.alt | escape | default: image_1.alt | escape }}">
           {%- endif %}
           <div class="image-overlap" style="max-width: {{ section.settings.image_width }}px">
             <div class="image-overlap__image image-overlap__image-1">
