@@ -70,7 +70,7 @@
         "height_mobile": 460,
         "image_link": "",
         "subheading": "",
-        "title": "Looking for Creative Signage <br>Products to enhance your brand?",
+        "title": "Looking for Creative Signage <br>Products to Enhance Your Brand?",
         "title_size": 40,
         "title_size_mobile": 24,
         "use_h1": false,
@@ -574,7 +574,7 @@
       "type": "apps",
       "blocks": {
         "81d6c269-6fb3-4984-8164-f2bdbf7c52ac": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "heading_size": 20,
             "feed_width": 100,
