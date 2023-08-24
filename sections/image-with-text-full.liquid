@@ -2,7 +2,7 @@
   <div class="">
     <div class="flexible-layout valign-middle">
       <div class="column column--half {% if section.settings.video == blank %}no-btm-margin{% endif %} {% if section.settings.image_position == 'right' %}column--order-push-desktop{% endif %}">
-        {% if section.settings.button_link != blank %}<a class="block-link" href="{{ section.settings.button_link }}">{% endif %}
+        {% if section.settings.button_link != blank %}<a class="block-link" href="{{ section.settings.button_link }}" aria-label="{{ section.settings.image_2.alt | escape | default: section.settings.image.alt | escape }}">{% endif %}
           <div class="full-img">
             {%- if section.settings.image != blank -%}
                <img src="{{ section.settings.image | image_url  }}" alt="{{ section.settings.image.alt | escape }}">
