@@ -2,7 +2,7 @@
   <div class="container">
     <div class="flexible-layout valign-middle" >
       <div class="column column--half {% if section.settings.image_position == 'right' %}column--order-push-desktop{% endif %} no-padding">
-        {% if section.settings.button_link != blank %}<a class="block-link" href="{{ section.settings.button_link }}">{% endif %}
+        {% if section.settings.button_link != blank %}<a class="block-link" href="{{ section.settings.button_link }}" aria-label="{{ section.settings.image_2.alt | escape | default: section.settings.image.alt | escape }}">{% endif %}
           <div class="image-overlap" style="max-width: {{ section.settings.image_width }}px">
             <div class="image-overlap__image image-overlap__image-1">
               {%- if section.settings.image == blank -%}
