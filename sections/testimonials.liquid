@@ -95,7 +95,7 @@
             {% if section.settings.layout contains 'image-' %}
               <div class="testimonial__column testimonial__column--image">
                 <figure class="testimonial__image-with-caption">
-                  {%- if block.settings.link != blank -%}<a class="testimonial__image-with-caption__link" href="{{ block.settings.link }}">{%- endif -%}
+                  {%- if block.settings.link != blank -%}<a class="testimonial__image-with-caption__link" href="{{ block.settings.link }}" aria-label="{{ block.settings.image.alt | escape }}">{%- endif -%}
                   <div class="testimonial__image-wrapper">
                     {% if block.settings.image != blank %}
                       {%- render 'responsive-image', image: block.settings.image, manual_image_load: true, aspect_ratio: image_aspect_ratio, cover: cover -%}
