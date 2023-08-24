@@ -154,7 +154,7 @@
               </span>
             </a>
           {% endif %}
-          <a href="{{ routes.cart_url }}" class="cart-link">
+          <a href="{{ routes.cart_url }}" class="cart-link" aria-label="Cart">
             <span class="cart-link__label{% if section.settings.icon_strategy == 'icons_only' %} visually-hidden{% endif %}">
               {{- 'layout.header.cart' | t | escape -}}
             </span>
