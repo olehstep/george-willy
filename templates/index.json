@@ -177,26 +177,6 @@
         "use_alt_bg": false
       }
     },
-    "ea347da6-0739-4dc1-9851-d79f83797745": {
-      "type": "image-with-text",
-      "settings": {
-        "section_bg": "#fefbf4",
-        "image": "shopify:\/\/shop_images\/George-_-Willy-0055-4---green_d6cfa54e-cc0e-4bd7-8c83-dfd0ff40ab25.jpg",
-        "image_2": "shopify:\/\/shop_images\/George-_-Willy-0151---yellow-copy.jpg",
-        "image_width": 700,
-        "subheading": "",
-        "title": "See What's New",
-        "use_h1": false,
-        "text": "<p>Shop our range of new products!<\/p>",
-        "button_label": "Shop New Products",
-        "button_link": "shopify:\/\/collections\/new",
-        "button_style": "primary",
-        "image_position": "left",
-        "text_alignment": "center",
-        "image_size": 150,
-        "use_alt_bg": false
-      }
-    },
     "16553343122727c31e": {
       "type": "rich-text",
       "blocks": {
@@ -617,7 +597,6 @@
     "16359276425da8ce46",
     "1651721243512d65d5",
     "6650460b-9454-4a05-beef-4d8ef9edd167",
-    "ea347da6-0739-4dc1-9851-d79f83797745",
     "16553343122727c31e",
     "16547282491ee4d8ac",
     "165543266112ffbf5b",
