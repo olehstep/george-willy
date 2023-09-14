@@ -1092,7 +1092,7 @@
           "c25a6448-f28d-4a63-83fa-4c5b633ff3a1"
         ],
         "settings": {
-          "announcement_bar_col": "#f4c165",
+          "announcement_bar_col": "#2e4737",
           "announcement_text_col": "#fefbf4",
           "message_font_size": 15,
           "show_social_icons": true,
@@ -1338,16 +1338,6 @@
         "disabled": true,
         "settings": {
           "position": "right"
-        }
-      },
-      "5803399549441092565": {
-        "type": "shopify:\/\/apps\/multi-location-inventory-info\/blocks\/app-embed\/982328e1-99f7-4a7e-8266-6aed71bf0021",
-        "disabled": true,
-        "settings": {
-          "syncLoad": true,
-          "collectionMapping": false,
-          "customerTagMapping": false,
-          "collectionPages": false
         }
       }
     }
