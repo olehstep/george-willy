@@ -1166,6 +1166,12 @@
           "3d04d742-09f3-4d42-8068-55edb615457d",
           "8bb04a9b-a009-4cbb-a611-c857d8060f9e"
         ],
+        "custom_css": [
+          ".logo-area {height: 50px; display: flex; align-items: center; justify-content: space-between;}",
+          ".navigation__tier-1 {display: flex; align-items: center; justify-content: center; height: 100%;}",
+          ".navigation__item {text-align: center; margin: 0 10px;}",
+          ".logo-area__left,.logo-area__middle,.logo-area__right {padding: 0px;}"
+        ],
         "settings": {
           "logo": "shopify:\/\/shop_images\/G_W-Logo---Simple---Green-Text---300-px-wide.png",
           "logo_img_width_int": 160,
