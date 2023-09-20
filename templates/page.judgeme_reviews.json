@@ -1,7 +1,37 @@
 {
   "sections": {
+    "3d518701-6f1c-44cd-af59-168ded821164": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14668783943783__3d518701-6f1c-44cd-af59-168ded821164-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Reviews",
+            "use_h1": false
+          }
+        },
+        "template--14668783943783__3d518701-6f1c-44cd-af59-168ded821164-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We love hearing from our happy customers on how they use their George & Willy signage. Here's some feedback we would love to share with you.<\/p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14668783943783__3d518701-6f1c-44cd-af59-168ded821164-heading-1",
+        "template--14668783943783__3d518701-6f1c-44cd-af59-168ded821164-text-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "full_width": false
       }
@@ -25,6 +55,7 @@
     }
   },
   "order": [
+    "3d518701-6f1c-44cd-af59-168ded821164",
     "main",
     "16951805799946b80b"
   ]
