@@ -29,13 +29,6 @@
         "use_alt_bg": false
       }
     },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "full_width": false
-      }
-    },
     "16951805799946b80b": {
       "type": "apps",
       "blocks": {
@@ -52,11 +45,18 @@
       "settings": {
         "full_width": false
       }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "full_width": false
+      }
     }
   },
   "order": [
     "3d518701-6f1c-44cd-af59-168ded821164",
-    "main",
-    "16951805799946b80b"
+    "16951805799946b80b",
+    "main"
   ]
 }
