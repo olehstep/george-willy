@@ -1155,6 +1155,15 @@
               "top_level_link_title": "Shipping",
               "image": "shopify:\/\/shop_images\/SHIPPING.jpg"
             }
+          },
+          "4fd95bbd-cc67-4466-bf55-270e637384f6": {
+            "type": "menu-promotion-small",
+            "settings": {
+              "dropdown_link_title": "SHOP SIGNAGE",
+              "image": "shopify:\/\/shop_images\/jpg_112ddd0a-8701-44a9-b3fb-3bd35e7fa2b2.jpg",
+              "title": "Signage",
+              "link_url": "shopify:\/\/collections\/signage"
+            }
           }
         },
         "block_order": [
@@ -1164,9 +1173,11 @@
           "05382df1-9e2e-4101-b7e1-6a4cc7b94834",
           "cd5a8110-022f-4e44-a149-56e19b031328",
           "3d04d742-09f3-4d42-8068-55edb615457d",
-          "8bb04a9b-a009-4cbb-a611-c857d8060f9e"
+          "8bb04a9b-a009-4cbb-a611-c857d8060f9e",
+          "4fd95bbd-cc67-4466-bf55-270e637384f6"
         ],
         "custom_css": [
+          "a:hover {color: #b0272a;}",
           ".logo-area {height: 50px; display: flex; align-items: center; justify-content: space-between;}",
           ".navigation__tier-1 {display: flex; align-items: center; justify-content: center; height: 100%;}",
           ".navigation__item {text-align: center; margin: 0 10px;}",
@@ -1179,7 +1190,7 @@
           "enable_sticky": false,
           "enable_transparent": false,
           "transparent_color": "#fefbf4",
-          "menu_linklist": "header-menu",
+          "menu_linklist": "header-menu-test",
           "menu_layout": "inline-menu-center",
           "nav_featured_link": "Sale",
           "enable_mobile_promo_carousel": true,
