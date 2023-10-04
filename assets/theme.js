@@ -4627,9 +4627,7 @@
       $('.gallery', container).on('click select selectFromSlick', '.thumbnails.owl-carousel .thumbnail', function (e) {
         e.preventDefault();
         var $carouselItem = $(this).parent();
-        console.log("kjh-out");
         if (e.type != 'selectFromSlick') {
-          console.log("kjh-if");
           // from click or variant image? change main image
           var mediaId = $(this).data('media-id');
           var _$slideshow = $(this).closest('.gallery').find('.slideshow.slick-slider');
@@ -4637,6 +4635,7 @@
             var index = _$slideshow.find('.slide[data-media-id="' + mediaId + '"]').index(); // current index including filters
             // same index? manual trigger of next event
             var slick = _$slideshow.slick('getSlick');
+            console.log("kjh-if", index, slick.currentSlide);
             if (slick.currentSlide === index) {
               // current slide active, manually trigger from-slick thumb selection (req. for index changes during filtering)
               $(this).trigger('selectFromSlick');
