@@ -4454,7 +4454,7 @@
           breakpoint: 768,
           settings: {
             fade: false,
-            arrows: true } }] };
+            arrows: false } }] };
 
 
 
