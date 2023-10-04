@@ -4629,7 +4629,7 @@
         var $carouselItem = $(this).parent();
         console.log("kjh-out");
         if (e.type != 'selectFromSlick') {
-          console.log("kjh");
+          console.log("kjh-if");
           // from click or variant image? change main image
           var mediaId = $(this).data('media-id');
           var _$slideshow = $(this).closest('.gallery').find('.slideshow.slick-slider');
@@ -4646,6 +4646,7 @@
             }
           }
         } else {
+          console.log("kjh-else");
           // change to active state comes from the main slideshow change event
           // show the highlight
           $(this).addClass('selected').parent().siblings().find('a').removeClass('selected');
