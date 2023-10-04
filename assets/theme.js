@@ -4627,7 +4627,9 @@
       $('.gallery', container).on('click select selectFromSlick', '.thumbnails.owl-carousel .thumbnail', function (e) {
         e.preventDefault();
         var $carouselItem = $(this).parent();
+        console.log("kjh-out");
         if (e.type != 'selectFromSlick') {
+          console.log("kjh");
           // from click or variant image? change main image
           var mediaId = $(this).data('media-id');
           var _$slideshow = $(this).closest('.gallery').find('.slideshow.slick-slider');
