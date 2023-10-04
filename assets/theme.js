@@ -4453,7 +4453,7 @@
         {
           breakpoint: 768,
           settings: {
-            fade: true,
+            fade: false,
             arrows: true } }] };
 
 
