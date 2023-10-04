@@ -4635,7 +4635,7 @@
             var index = _$slideshow.find('.slide[data-media-id="' + mediaId + '"]').index(); // current index including filters
             // same index? manual trigger of next event
             var slick = _$slideshow.slick('getSlick');
-            console.log("kjh-if", index, slick.currentSlide);
+            console.log("kjh-if", index, slick.currentSlide, mediaId);
             if (slick.currentSlide === index) {
               // current slide active, manually trigger from-slick thumb selection (req. for index changes during filtering)
               $(this).trigger('selectFromSlick');
