@@ -4645,7 +4645,6 @@
             }
           }
         } else {
-          console.log("kjh-else");
           // change to active state comes from the main slideshow change event
           // show the highlight
           $(this).addClass('selected').parent().siblings().find('a').removeClass('selected');
@@ -4654,7 +4653,7 @@
           var shelfStart = $carouselItem.parent().children('.active:first').index();
           var shelfEnd = shelfStart + carouselVisibleItemCount - 1;
           var currentIndex = $carouselItem.index();
-
+          console.log("kjh-else", currentIndex, shelfStart, shelfEnd);
           if (currentIndex < shelfStart) {
             // selected is to left of shelf - move carousel right to show
             $carouselItem.closest('.owl-carousel').trigger('to.owl.carousel', currentIndex);
