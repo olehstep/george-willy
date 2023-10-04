@@ -4439,7 +4439,7 @@
     if ($slideshow.length) {
       var slickConfig = {
         autoplay: false,
-        fade: false,
+        fade: true,
         infinite: true,
         useTransform: true,
         dots: false,
@@ -4453,8 +4453,8 @@
         {
           breakpoint: 768,
           settings: {
-            fade: false,
-            arrows: false } }] };
+            fade: true,
+            arrows: true } }] };
 
 
 
