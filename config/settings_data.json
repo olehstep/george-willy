@@ -1168,7 +1168,7 @@
           "a39ced0c-9169-4fe6-bd13-d82a43ce5159": {
             "type": "menu-promotion-small",
             "settings": {
-              "dropdown_link_title": "SHOP SIGNAGE",
+              "dropdown_link_title": "SHOP",
               "image": "shopify:\/\/shop_images\/HangingMenuBoard-5778new_50b7540c-a943-438e-a5e9-0cabf648f6f9.jpg",
               "title": "Menu Displays",
               "link_url": "shopify:\/\/collections\/letter-menu-boards"
@@ -1200,7 +1200,7 @@
           "enable_sticky": false,
           "enable_transparent": false,
           "transparent_color": "#fefbf4",
-          "menu_linklist": "header-menu-test",
+          "menu_linklist": "header-mega-nav-test",
           "menu_layout": "inline-menu-center",
           "nav_featured_link": "Sale",
           "enable_mobile_promo_carousel": true,
