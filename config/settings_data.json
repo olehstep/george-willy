@@ -1051,6 +1051,8 @@
     "enable_cf06": true,
     "cf08_imp": false,
     "cf23_imp": false,
+    "cf25_imp": false,
+    "cf251_imp": false,
     "Country_us_url": "",
     "Country_aus": "shopify:\/\/shop_images\/flag-au.png",
     "Country_aus_url": "",
