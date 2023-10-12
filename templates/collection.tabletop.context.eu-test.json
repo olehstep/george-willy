@@ -1,8 +1,0 @@
-{
-  "parent": "collection.tabletop.json",
-  "context": {
-    "market": "eu-test"
-  },
-  "sections": {
-  }
-}

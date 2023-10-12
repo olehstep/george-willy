@@ -1,8 +1,0 @@
-{
-  "parent": "collection.signage.json",
-  "context": {
-    "market": "eu-test"
-  },
-  "sections": {
-  }
-}
