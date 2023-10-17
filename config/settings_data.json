@@ -1175,6 +1175,13 @@
               "title": "Menu Displays",
               "link_url": "shopify:\/\/collections\/letter-menu-boards"
             }
+          },
+          "703b4630-a1a3-42f3-8295-01153095ed20": {
+            "type": "image-for-mobile-menu",
+            "settings": {
+              "top_level_link_title": "Sale",
+              "image": "shopify:\/\/shop_images\/counter-signs_b06fb432-a8e7-4bb0-8211-27c40c6a3b7a.jpg"
+            }
           }
         },
         "block_order": [
@@ -1186,7 +1193,8 @@
           "3d04d742-09f3-4d42-8068-55edb615457d",
           "8bb04a9b-a009-4cbb-a611-c857d8060f9e",
           "4fd95bbd-cc67-4466-bf55-270e637384f6",
-          "a39ced0c-9169-4fe6-bd13-d82a43ce5159"
+          "a39ced0c-9169-4fe6-bd13-d82a43ce5159",
+          "703b4630-a1a3-42f3-8295-01153095ed20"
         ],
         "custom_css": [
           "a:hover {color: #b0272a;}",
