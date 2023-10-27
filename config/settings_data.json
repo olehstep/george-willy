@@ -1084,6 +1084,7 @@
           },
           "c25a6448-f28d-4a63-83fa-4c5b633ff3a1": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "<p>Sale On Now! Up to 40% Off - <a href=\"\/collections\/sale\" title=\"Sale\">Shop Now<\/a><\/p>"
             }
