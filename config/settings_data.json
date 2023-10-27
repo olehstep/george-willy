@@ -1298,6 +1298,7 @@
           },
           "1601374650582": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "title": "Shop",
               "menu": "collection-sidebar"
