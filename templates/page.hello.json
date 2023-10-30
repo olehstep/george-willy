@@ -69,13 +69,6 @@
     "6a2b7ecb-e3a1-48bc-b4d1-b67c856b709d": {
       "type": "collection-list",
       "blocks": {
-        "abbf3805-b463-4670-a901-6b73de1ebbff": {
-          "type": "collection",
-          "settings": {
-            "collection": "sale",
-            "image": "shopify:\/\/shop_images\/sale_square_2.jpg"
-          }
-        },
         "3fb301c7-e65c-47d1-b8c0-236a36880a68": {
           "type": "collection",
           "settings": {
@@ -106,15 +99,22 @@
           "settings": {
             "collection": "all"
           }
+        },
+        "abbf3805-b463-4670-a901-6b73de1ebbff": {
+          "type": "collection",
+          "settings": {
+            "collection": "sale",
+            "image": "shopify:\/\/shop_images\/sale_square_2.jpg"
+          }
         }
       },
       "block_order": [
-        "abbf3805-b463-4670-a901-6b73de1ebbff",
         "3fb301c7-e65c-47d1-b8c0-236a36880a68",
         "6bd174cb-b7ee-447f-8a19-b432396d2c00",
         "8134dafb-0d03-47b9-9465-db76b7853c90",
         "d461b1d8-d397-4606-b2e5-9c406e327057",
-        "cff8d240-fe2e-4d4b-b174-16eca6950aec"
+        "cff8d240-fe2e-4d4b-b174-16eca6950aec",
+        "abbf3805-b463-4670-a901-6b73de1ebbff"
       ],
       "settings": {
         "title": "Shop Our Range of Signage & Menu Displays",
