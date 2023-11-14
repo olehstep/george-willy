@@ -560,6 +560,28 @@
         "image_size": 150,
         "use_alt_bg": false
       }
+    },
+    "479beeac-182a-4092-9554-4e06e23b6cc2": {
+      "type": "rich-text",
+      "blocks": {
+        "a81fcf3b-21da-4eb9-9d9f-8dc342deda42": {
+          "type": "heading",
+          "settings": {
+            "title": "Signage is how a business introduces itself - every single day. We believe in making that first impression count.",
+            "use_h1": false
+          }
+        }
+      },
+      "block_order": [
+        "a81fcf3b-21da-4eb9-9d9f-8dc342deda42"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
     }
   },
   "order": [
@@ -578,6 +600,7 @@
     "165577959876ffd4fb",
     "16578285197d2e1681",
     "1658893660cc0840e2",
-    "165578347791355877"
+    "165578347791355877",
+    "479beeac-182a-4092-9554-4e06e23b6cc2"
   ]
 }
