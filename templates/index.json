@@ -61,8 +61,8 @@
     "d2256895-af53-4616-b04b-58c855605a51": {
       "type": "image-with-text-overlay",
       "settings": {
-        "image": "shopify:\/\/shop_images\/English_a966e721-afee-4244-9bfc-2304d388282b.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/English-SQ_1b57611e-f05d-4e83-b1f9-fe86f833e6c3.jpg",
+        "image": "shopify:\/\/shop_images\/BF-Banner.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/BF-banner-SQ.jpg",
         "image_position": "center center",
         "mobile_image_position": "center center",
         "height": "adapt",
