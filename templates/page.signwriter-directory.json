@@ -74,36 +74,6 @@
         "use_alt_bg": false
       }
     },
-    "71efc780-9d8b-4770-b67a-5c1d68053ffc": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14607767339111__71efc780-9d8b-4770-b67a-5c1d68053ffc-1680839865ee4586c7-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Want to be added to our Sign Writer Directory?<\/p>",
-            "enlarge_text": true
-          }
-        },
-        "de7a6709-86a3-44ce-ba75-19b0a017a04b": {
-          "type": "button",
-          "settings": {
-            "button_label": "Apply now",
-            "button_link": "mailto:hello@georgeandwilly.com",
-            "button_style": "primary"
-          }
-        }
-      },
-      "block_order": [
-        "template--14607767339111__71efc780-9d8b-4770-b67a-5c1d68053ffc-1680839865ee4586c7-1",
-        "de7a6709-86a3-44ce-ba75-19b0a017a04b"
-      ],
-      "settings": {
-        "height": "medium",
-        "text_alignment": "center",
-        "full_width": false,
-        "use_alt_bg": false
-      }
-    },
     "0e75eb27-5bcc-4132-8fd3-b625adc16e5b": {
       "type": "video-with-text",
       "settings": {
@@ -116,7 +86,7 @@
         "button_label": "Read more",
         "button_link": "shopify:\/\/blogs\/blog\/apply-vinyl-decal-to-your-sign-or-find-a-local-signwriter",
         "button_style": "link",
-        "video_position": "left",
+        "video_position": "right",
         "text_alignment": "center",
         "use_alt_bg": false
       }
@@ -148,7 +118,6 @@
     "f19ccd86-e1f2-4525-850e-6c3eec6bb72a",
     "d9e4e8a4-5994-4b4f-a272-4a46c90e5b5f",
     "05692a45-c0ca-4311-8620-5238f21a62ac",
-    "71efc780-9d8b-4770-b67a-5c1d68053ffc",
     "0e75eb27-5bcc-4132-8fd3-b625adc16e5b",
     "d93e2bd0-dfd1-4685-ad0f-9da11b267b17"
   ]
