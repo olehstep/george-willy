@@ -48,6 +48,11 @@
             "size_chart_page": "wooden-letter-board-sizing-guide"
           }
         },
+        "b71effd0-1b20-453a-9888-f4b66f99b645": {
+          "type": "shopify:\/\/apps\/selleasy\/blocks\/lb-upsell-addon-block\/790c1a03-a71f-4bc1-9869-00dad526d3c2",
+          "settings": {
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -142,6 +147,7 @@
         "0fda3a8c-030e-4888-bc7b-dfee296a290e",
         "divider",
         "variant_picker",
+        "b71effd0-1b20-453a-9888-f4b66f99b645",
         "buy_buttons",
         "c3a6e256-9bc0-48cb-8883-39d0b0f9e482",
         "description",
