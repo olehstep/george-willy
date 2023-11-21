@@ -1,0 +1,350 @@
+{
+  "sections": {
+    "shogun-helper": {
+      "type": "shogun-helper",
+      "settings": {
+      }
+    },
+    "shogun-above": {
+      "type": "shogun-above",
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "main-metafields-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": false
+          }
+        },
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "divider": {
+          "type": "divider",
+          "settings": {
+            "show_in_quickbuy": false
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_single": false,
+            "select_first_variant": true,
+            "variant_style": "listed",
+            "disable_unavailable_variants": true,
+            "show_size_chart": true,
+            "size_chart_variant": "Colour",
+            "size_chart_page": "wooden-letter-board-sizing-guide"
+          }
+        },
+        "b71effd0-1b20-453a-9888-f4b66f99b645": {
+          "type": "shopify:\/\/apps\/selleasy\/blocks\/lb-upsell-addon-block\/790c1a03-a71f-4bc1-9869-00dad526d3c2",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": true,
+            "show_pickup_availability": true
+          }
+        },
+        "c3a6e256-9bc0-48cb-8883-39d0b0f9e482": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<p>\nOrder now for delivery between: <span id=\"fromDate\"><\/span> - <span id=\"toDate\"><\/span><\/p>\n{{ '\/\/cdnjs.cloudflare.com\/ajax\/libs\/datejs\/1.0\/date.min.js' | script_tag }}\n<script>\nvar fromDate = Date.today().addDays(2);\nif (fromDate.is().saturday() || fromDate.is().sunday()) {\nfromDate = fromDate.next().monday();\n}\nvar toDate = Date.today().addDays(6);\nif (toDate.is().saturday() || toDate.is().sunday()) {\ntoDate = toDate.next().monday();\n}\ndocument.getElementById('fromDate').innerHTML = fromDate.toString('MMMM dS');\ndocument.getElementById('toDate').innerHTML = toDate.toString('MMMM dS');\n<\/script>",
+            "show_in_quickbuy": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "67b24d17-bd77-49fb-8832-19334a00a603": {
+          "type": "image",
+          "settings": {
+            "image_width": 700,
+            "url": "",
+            "show_in_quickbuy": false
+          }
+        },
+        "71d53735-ebfe-4222-a023-951cf8c6117e": {
+          "type": "accordion",
+          "settings": {
+            "title": "Specifications",
+            "icon": "ruler",
+            "metafield_key": "custom.accordion_specification",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "ffd9412b-eddd-4379-8e44-e130d851ec78": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "title": "Delivery & Returns",
+            "icon": "box",
+            "metafield_key": "custom.accordion_delivery_returns",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "bba73b3d-4129-463d-b7bf-59a307fb1e1d": {
+          "type": "accordion",
+          "settings": {
+            "title": "FAQs",
+            "icon": "question_mark",
+            "metafield_key": "custom.accordion_faqs",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "a4d904f0-eb30-4749-aadc-d8000fe42c47": {
+          "type": "accordion",
+          "settings": {
+            "title": "Assembly Instructions",
+            "icon": "check_mark",
+            "metafield_key": "custom.accordion_assembly_instructions",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
+        },
+        "307bb432-10b4-4150-940d-514d6debf885": {
+          "type": "related_products",
+          "disabled": true,
+          "settings": {
+            "metafield_key": "custom.related_products_title",
+            "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].complementary_products.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "0fda3a8c-030e-4888-bc7b-dfee296a290e",
+        "divider",
+        "variant_picker",
+        "b71effd0-1b20-453a-9888-f4b66f99b645",
+        "buy_buttons",
+        "c3a6e256-9bc0-48cb-8883-39d0b0f9e482",
+        "description",
+        "67b24d17-bd77-49fb-8832-19334a00a603",
+        "71d53735-ebfe-4222-a023-951cf8c6117e",
+        "ffd9412b-eddd-4379-8e44-e130d851ec78",
+        "bba73b3d-4129-463d-b7bf-59a307fb1e1d",
+        "a4d904f0-eb30-4749-aadc-d8000fe42c47",
+        "307bb432-10b4-4150-940d-514d6debf885"
+      ],
+      "settings": {
+        "show_breadcrumbs": true,
+        "show_location_underneath": false,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": true,
+        "gallery_size": "large",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": false,
+        "enable_video_looping": false,
+        "enable_var_img_grouping": false,
+        "var_img_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "e22599fd-eff9-451d-8980-7b9503738251": {
+      "type": "metafields-gallery",
+      "blocks": {
+        "0c44e5b2-c22b-4cd4-95aa-1e9f4be9a9c2": {
+          "type": "image",
+          "settings": {
+            "metafield_key": "custom.gallery_item_1",
+            "alignment": "center center",
+            "text_alignment": "bottom left"
+          }
+        },
+        "169b536b-239c-4a56-8679-872e705f290c": {
+          "type": "image",
+          "settings": {
+            "metafield_key": "custom.gallery_item_2",
+            "alignment": "center center",
+            "text_alignment": "bottom left"
+          }
+        },
+        "bc102b1d-acd8-4c0d-8f1c-355e59acfbb5": {
+          "type": "image",
+          "settings": {
+            "metafield_key": "custom.gallery_item_3",
+            "alignment": "center center",
+            "text_alignment": "bottom left"
+          }
+        },
+        "0190a063-1b22-41ae-a1c8-bd654e1e8bb4": {
+          "type": "image",
+          "settings": {
+            "metafield_key": "custom.gallery_item_4",
+            "alignment": "center center",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "0c44e5b2-c22b-4cd4-95aa-1e9f4be9a9c2",
+        "169b536b-239c-4a56-8679-872e705f290c",
+        "bc102b1d-acd8-4c0d-8f1c-355e59acfbb5",
+        "0190a063-1b22-41ae-a1c8-bd654e1e8bb4"
+      ],
+      "disabled": true,
+      "settings": {
+        "metafield_key": "custom.gallery_title",
+        "grid": 2,
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "use_alt_bg": false,
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "b2801bd3-2747-40bc-a539-a8dd87cfbf59": {
+      "type": "rich-text",
+      "blocks": {
+        "8250a9c8-c43d-4db6-9bd3-66cd3dc406a8": {
+          "type": "button",
+          "settings": {
+            "button_label": "VIEW MORE CUSTOMER PHOTOS",
+            "button_link": "https:\/\/george-willy.myshopify.com\/pages\/atelier-letter-board-gallery",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "8250a9c8-c43d-4db6-9bd3-66cd3dc406a8"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
+    "4e2b090f-f40a-439d-be97-7aba07ccac2f": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px_2f617e73-3d58-4c1c-82c2-381b432e5629.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
+    "4e61a570-e243-4ca0-aaf6-cb2c86675828": {
+      "type": "metafields_featured-collection",
+      "disabled": true,
+      "settings": {
+        "metafield_key": "custom.featured_collection",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "1655859379d08f0f7b": {
+      "type": "apps",
+      "blocks": {
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c"
+      ],
+      "settings": {
+        "full_width": false
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "title": "You may also like",
+        "show_vendor": false,
+        "grid": 4
+      }
+    },
+    "shogun-below": {
+      "type": "shogun-below",
+      "settings": {
+      }
+    },
+    "e078eeed-00f3-4f3d-a821-b5a860d580b4": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "code": "<script>\nwindow.addEventListener('load', function() {\nvar _learnq = window._learnq || [];\nfunction addedToCart() {\n  fetch(`${window.location.origin}\/cart.js`)\n  .then(res => res.clone().json().then(data => {\n    var cart = {\n      total_price: data.total_price\/100,\n      $value: data.total_price\/100,\n      total_discount: data.total_discount,\n      original_total_price: data.original_total_price\/100,\n      items: data.items\n    }\n    if (item !== 'undefined') {\n      cart = Object.assign(cart, item)\n    }\n    if (klAjax) {\n        _learnq.push(['track', 'Added to Cart', cart]);\n        klAjax = false;\n      }\n  }))\n};\n(function (ns, fetch) {\n  ns.fetch = function() {\n    const response = fetch.apply(this, arguments);\n    response.then(res => {\n      if (`${window.location.origin}\/cart\/add.js`\n      \t.includes(res.url)) {\n        \taddedToCart()\n      }\n    });\n    return response\n  }\n}(window, window.fetch));\nvar klAjax = true;\nvar atcButtons = document.querySelectorAll(\"form[action*='\/cart\/add'] button[type='submit']\");\nfor (var i = 0; i < atcButtons.length; i++) {\n    atcButtons[i].addEventListener(\"click\", function() {\n      if (klAjax) {\n        _learnq.push(['track', 'Added to Cart', item]);\n        klAjax = false;\n      }\n    })\n}\n});\n<\/script>"
+      }
+    }
+  },
+  "order": [
+    "shogun-helper",
+    "shogun-above",
+    "main",
+    "e22599fd-eff9-451d-8980-7b9503738251",
+    "b2801bd3-2747-40bc-a539-a8dd87cfbf59",
+    "4e2b090f-f40a-439d-be97-7aba07ccac2f",
+    "4e61a570-e243-4ca0-aaf6-cb2c86675828",
+    "1655859379d08f0f7b",
+    "recommendations",
+    "shogun-below",
+    "e078eeed-00f3-4f3d-a821-b5a860d580b4"
+  ]
+}
