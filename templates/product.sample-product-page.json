@@ -248,34 +248,6 @@
         "use_alt_bg": false
       }
     },
-    "4e2b090f-f40a-439d-be97-7aba07ccac2f": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/A_note_from_G_W_3.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
-        "image_position": "center center",
-        "mobile_image_position": "center center",
-        "height": "adapt",
-        "height_desktop": 600,
-        "height_mobile": 460,
-        "image_link": "",
-        "subheading": "",
-        "title": "",
-        "title_size": 84,
-        "title_size_mobile": 46,
-        "use_h1": false,
-        "text": "",
-        "enlarge_text": true,
-        "button_label_1": "",
-        "button_url_1": "",
-        "button_label_2": "",
-        "button_url_2": "",
-        "text_alignment": "center center",
-        "full_width": true,
-        "mobile_overlay_under": false,
-        "overlay_style": "shadow"
-      }
-    },
     "4e61a570-e243-4ca0-aaf6-cb2c86675828": {
       "type": "metafields_featured-collection",
       "disabled": true,
@@ -335,7 +307,7 @@
         "image": "shopify:\/\/shop_images\/George_and_Willy_Icons_-_George-Will.png",
         "image_width": 700,
         "subheading": "",
-        "title": "Why George & Willy",
+        "title": "Why George & Willy?",
         "use_h1": false,
         "text": "<p>We started this business to make simple display products for creative spaces. <\/p><p>We stand by the quality of our products. That’s why we offer <strong>100 Day Returns<\/strong> on every purchase.<\/p><p><\/p>",
         "button_label": "",
@@ -354,7 +326,6 @@
     "main",
     "e22599fd-eff9-451d-8980-7b9503738251",
     "b2801bd3-2747-40bc-a539-a8dd87cfbf59",
-    "4e2b090f-f40a-439d-be97-7aba07ccac2f",
     "4e61a570-e243-4ca0-aaf6-cb2c86675828",
     "1655859379d08f0f7b",
     "recommendations",
