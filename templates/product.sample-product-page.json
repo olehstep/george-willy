@@ -25,12 +25,12 @@
             "enable_product_reviews_by_price": false
           }
         },
-        "2d4dd933-5c15-4ea9-8043-f2327157b4f3": {
-          "type": "link",
+        "a26543fc-30a2-4bcb-bcd2-2446d80ce78f": {
+          "type": "popup",
           "settings": {
-            "url": "",
             "text": "Why George & Willy?",
             "style": "link",
+            "page": "",
             "show_in_quickbuy": false
           }
         },
@@ -149,7 +149,7 @@
       "block_order": [
         "title",
         "price",
-        "2d4dd933-5c15-4ea9-8043-f2327157b4f3",
+        "a26543fc-30a2-4bcb-bcd2-2446d80ce78f",
         "0fda3a8c-030e-4888-bc7b-dfee296a290e",
         "divider",
         "variant_picker",
