@@ -135,6 +135,17 @@
             "metafield_key": "custom.related_products_title",
             "product_list": "{{ product.metafields[\"shopify--discovery--product_recommendation\"].complementary_products.value }}"
           }
+        },
+        "4204ef60-639f-483a-af31-c12147428acf": {
+          "type": "accordion",
+          "settings": {
+            "title": "Back In Stock",
+            "icon": "award",
+            "metafield_key": "product.metafields.custom.back_in_stock",
+            "page": "",
+            "open": false,
+            "show_in_quickbuy": false
+          }
         }
       },
       "block_order": [
@@ -151,7 +162,8 @@
         "ffd9412b-eddd-4379-8e44-e130d851ec78",
         "bba73b3d-4129-463d-b7bf-59a307fb1e1d",
         "a4d904f0-eb30-4749-aadc-d8000fe42c47",
-        "307bb432-10b4-4150-940d-514d6debf885"
+        "307bb432-10b4-4150-940d-514d6debf885",
+        "4204ef60-639f-483a-af31-c12147428acf"
       ],
       "settings": {
         "show_breadcrumbs": true,
