@@ -1047,6 +1047,7 @@
     "cart_type": "page",
     "product_currency_code_enabled": true,
     "cart_currency_code_enabled": true,
+    "cf03_imp": false,
     "image_09_desktop": "shopify:\/\/shop_images\/trust_seals_d25e7da7-dd45-4607-8196-eaef787fe315.png",
     "enable_cf06": true,
     "cf08_imp": false,
