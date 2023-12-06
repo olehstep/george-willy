@@ -36,7 +36,6 @@
         },
         "0fda3a8c-030e-4888-bc7b-dfee296a290e": {
           "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
           "settings": {
           }
         },
@@ -235,6 +234,25 @@
         "button_style": "primary"
       }
     },
+    "41f6f2de-fb88-403a-8ff0-52d2a1f95a9e": {
+      "type": "image-with-text",
+      "settings": {
+        "section_bg": "#fefbf4",
+        "image": "shopify:\/\/shop_images\/George_and_Willy_Icons_-_George-Will.png",
+        "image_width": 310,
+        "subheading": "",
+        "title": "Why George & Willy?",
+        "use_h1": false,
+        "text": "<p>We believe in first impressions. Specifically, good ones. Signage is often the first thing your customers see & that's why we've spent the last 10 years making sure George & Willy is the coolest signage company in the world.<\/p><p>Say goodbye to expensive & time consuming custom signage for your store. Our high-quality signage displays, designed by our in-house team, are delivered in just 3-5 days.<\/p><p>George & Willy help people like you, all over the world, make their space inspiring. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "image_position": "left",
+        "text_alignment": "left",
+        "image_size": 150,
+        "use_alt_bg": false
+      }
+    },
     "b2801bd3-2747-40bc-a539-a8dd87cfbf59": {
       "type": "rich-text",
       "blocks": {
@@ -284,7 +302,6 @@
       "block_order": [
         "eaf5c8d7-60a8-4660-bf30-4b284a3bf90c"
       ],
-      "disabled": true,
       "settings": {
         "full_width": false
       }
@@ -309,25 +326,6 @@
         "full_width": true,
         "code": "<script>\nwindow.addEventListener('load', function() {\nvar _learnq = window._learnq || [];\nfunction addedToCart() {\n  fetch(`${window.location.origin}\/cart.js`)\n  .then(res => res.clone().json().then(data => {\n    var cart = {\n      total_price: data.total_price\/100,\n      $value: data.total_price\/100,\n      total_discount: data.total_discount,\n      original_total_price: data.original_total_price\/100,\n      items: data.items\n    }\n    if (item !== 'undefined') {\n      cart = Object.assign(cart, item)\n    }\n    if (klAjax) {\n        _learnq.push(['track', 'Added to Cart', cart]);\n        klAjax = false;\n      }\n  }))\n};\n(function (ns, fetch) {\n  ns.fetch = function() {\n    const response = fetch.apply(this, arguments);\n    response.then(res => {\n      if (`${window.location.origin}\/cart\/add.js`\n      \t.includes(res.url)) {\n        \taddedToCart()\n      }\n    });\n    return response\n  }\n}(window, window.fetch));\nvar klAjax = true;\nvar atcButtons = document.querySelectorAll(\"form[action*='\/cart\/add'] button[type='submit']\");\nfor (var i = 0; i < atcButtons.length; i++) {\n    atcButtons[i].addEventListener(\"click\", function() {\n      if (klAjax) {\n        _learnq.push(['track', 'Added to Cart', item]);\n        klAjax = false;\n      }\n    })\n}\n});\n<\/script>"
       }
-    },
-    "41f6f2de-fb88-403a-8ff0-52d2a1f95a9e": {
-      "type": "image-with-text",
-      "settings": {
-        "section_bg": "#fefbf4",
-        "image": "shopify:\/\/shop_images\/George_and_Willy_Icons_-_George-Will.png",
-        "image_width": 310,
-        "subheading": "",
-        "title": "Why George & Willy?",
-        "use_h1": false,
-        "text": "<p>We believe in first impressions. Specifically, good ones. Signage is often the first thing your customers see & that's why we've spent the last 10 years making sure George & Willy is the coolest signage company in the world.<\/p><p>Say goodbye to expensive & time consuming custom signage for your store. Our high-quality signage displays, designed by our in-house team, are delivered in just 3-5 days.<\/p><p>George & Willy help people like you, all over the world, make their space inspiring. <\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "image_position": "left",
-        "text_alignment": "left",
-        "image_size": 150,
-        "use_alt_bg": false
-      }
     }
   },
   "order": [
@@ -335,12 +333,12 @@
     "shogun-above",
     "main",
     "e22599fd-eff9-451d-8980-7b9503738251",
+    "41f6f2de-fb88-403a-8ff0-52d2a1f95a9e",
     "b2801bd3-2747-40bc-a539-a8dd87cfbf59",
     "4e61a570-e243-4ca0-aaf6-cb2c86675828",
     "1655859379d08f0f7b",
     "recommendations",
     "shogun-below",
-    "e078eeed-00f3-4f3d-a821-b5a860d580b4",
-    "41f6f2de-fb88-403a-8ff0-52d2a1f95a9e"
+    "e078eeed-00f3-4f3d-a821-b5a860d580b4"
   ]
 }
