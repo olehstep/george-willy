@@ -407,7 +407,7 @@
         "image": "shopify:\/\/shop_images\/A-Frame-Sign-George-and-Willy.jpg",
         "video": "",
         "autoplay": false,
-        "title": "'Functional, minimal & playful signage products'",
+        "title": "\"Functional, minimal & playful signage products\"",
         "header_font_new": "work_sans_n6",
         "font_size": 32,
         "logo": "shopify:\/\/shop_images\/DWELL_701a615e-7e69-4310-9e44-8fdf95217db4.png",
@@ -530,6 +530,8 @@
         "81d6c269-6fb3-4984-8164-f2bdbf7c52ac": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
+            "title_color": "",
+            "alignment": "center",
             "html_area": ""
           }
         }
