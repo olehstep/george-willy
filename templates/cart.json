@@ -1,5 +1,22 @@
 {
   "sections": {
+    "main": {
+      "type": "main-cart",
+      "settings": {
+        "show_page_title": false,
+        "enable_cart_notes": false,
+        "show_tax_and_shipping": true,
+        "cart_terms_page": "",
+        "show_additional_checkout_buttons": true,
+        "show_backorder_text": true,
+        "show_shipping_calculator": false,
+        "shipping_calculator_default_country": "United States",
+        "cf23_enable_upsell_product": false,
+        "cf23_upsell_product": "",
+        "cf23_upsell_product_id": "",
+        "cf23_upsell_product_desc": ""
+      }
+    },
     "59c3c491-aa59-4cc9-a88d-b889ea5b125c": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -26,23 +43,6 @@
         "full_width": true,
         "mobile_overlay_under": false,
         "overlay_style": "shadow"
-      }
-    },
-    "main": {
-      "type": "main-cart",
-      "settings": {
-        "show_page_title": false,
-        "enable_cart_notes": false,
-        "show_tax_and_shipping": true,
-        "cart_terms_page": "",
-        "show_additional_checkout_buttons": true,
-        "show_backorder_text": true,
-        "show_shipping_calculator": false,
-        "shipping_calculator_default_country": "United States",
-        "cf23_enable_upsell_product": false,
-        "cf23_upsell_product": "",
-        "cf23_upsell_product_id": "",
-        "cf23_upsell_product_desc": ""
       }
     },
     "1677016408764d56e1": {
@@ -277,8 +277,8 @@
     }
   },
   "order": [
-    "59c3c491-aa59-4cc9-a88d-b889ea5b125c",
     "main",
+    "59c3c491-aa59-4cc9-a88d-b889ea5b125c",
     "1677016408764d56e1",
     "16558549196a7c76a6",
     "16532632762b3fde00",
