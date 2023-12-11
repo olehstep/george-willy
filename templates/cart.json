@@ -246,6 +246,33 @@
       "settings": {
         "title": "Returns & Exchanges"
       }
+    },
+    "59c3c491-aa59-4cc9-a88d-b889ea5b125c": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pink_Film_Frames_Collage_Product_Review_Instagram_Post_2000_x_800_px.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
     }
   },
   "order": [
@@ -256,6 +283,7 @@
     "165172302373294649",
     "165810478759c86d20",
     "1653263304762ff233",
-    "165326335593748da9"
+    "165326335593748da9",
+    "59c3c491-aa59-4cc9-a88d-b889ea5b125c"
   ]
 }
