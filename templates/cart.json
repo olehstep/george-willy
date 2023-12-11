@@ -1,5 +1,33 @@
 {
   "sections": {
+    "59c3c491-aa59-4cc9-a88d-b889ea5b125c": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pink_Film_Frames_Collage_Product_Review_Instagram_Post_2000_x_800_px_2.jpg",
+        "mobile_image": "shopify:\/\/shop_images\/Copy_of_Pink_Film_Frames_Collage_Product_Review_Instagram_Post.jpg",
+        "image_position": "center center",
+        "mobile_image_position": "center center",
+        "height": "adapt",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "image_link": "",
+        "subheading": "",
+        "title": "",
+        "title_size": 84,
+        "title_size_mobile": 46,
+        "use_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label_1": "",
+        "button_url_1": "",
+        "button_label_2": "",
+        "button_url_2": "",
+        "text_alignment": "center center",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "shadow"
+      }
+    },
     "main": {
       "type": "main-cart",
       "settings": {
@@ -29,34 +57,6 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Copy_of_WEB_USP_2000_x_260px.jpg",
         "mobile_image": "shopify:\/\/shop_images\/USP_Mobile_Homepage.jpg",
-        "image_position": "center center",
-        "mobile_image_position": "center center",
-        "height": "adapt",
-        "height_desktop": 600,
-        "height_mobile": 460,
-        "image_link": "",
-        "subheading": "",
-        "title": "",
-        "title_size": 84,
-        "title_size_mobile": 46,
-        "use_h1": false,
-        "text": "",
-        "enlarge_text": true,
-        "button_label_1": "",
-        "button_url_1": "",
-        "button_label_2": "",
-        "button_url_2": "",
-        "text_alignment": "center center",
-        "full_width": true,
-        "mobile_overlay_under": false,
-        "overlay_style": "shadow"
-      }
-    },
-    "59c3c491-aa59-4cc9-a88d-b889ea5b125c": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Pink_Film_Frames_Collage_Product_Review_Instagram_Post_2000_x_800_px_2.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/Copy_of_Pink_Film_Frames_Collage_Product_Review_Instagram_Post.jpg",
         "image_position": "center center",
         "mobile_image_position": "center center",
         "height": "adapt",
@@ -277,10 +277,10 @@
     }
   },
   "order": [
+    "59c3c491-aa59-4cc9-a88d-b889ea5b125c",
     "main",
     "1677016408764d56e1",
     "16558549196a7c76a6",
-    "59c3c491-aa59-4cc9-a88d-b889ea5b125c",
     "16532632762b3fde00",
     "165172302373294649",
     "165810478759c86d20",
