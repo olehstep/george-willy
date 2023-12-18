@@ -127,6 +127,7 @@
         },
         "a4d904f0-eb30-4749-aadc-d8000fe42c47": {
           "type": "accordion",
+          "disabled": true,
           "settings": {
             "title": "Assembly Instructions",
             "icon": "check_mark",
