@@ -278,34 +278,6 @@
         "overlay_style": "shadow"
       }
     },
-    "4ae141b3-127f-4e84-a422-c6a5d9ab5d06": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Pink_Film_Frames_Collage_Product_Review_Instagram_Post_4.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/Pink_Film_Frames_Collage_Product_Review_Instagram_Post_2.jpg",
-        "image_position": "center center",
-        "mobile_image_position": "center center",
-        "height": "adapt",
-        "height_desktop": 600,
-        "height_mobile": 460,
-        "image_link": "",
-        "subheading": "",
-        "title": "",
-        "title_size": 84,
-        "title_size_mobile": 46,
-        "use_h1": false,
-        "text": "",
-        "enlarge_text": true,
-        "button_label_1": "",
-        "button_url_1": "",
-        "button_label_2": "",
-        "button_url_2": "",
-        "text_alignment": "center center",
-        "full_width": true,
-        "mobile_overlay_under": false,
-        "overlay_style": "shadow"
-      }
-    },
     "16359281184fd0d618": {
       "type": "testimonials",
       "blocks": {
@@ -558,6 +530,7 @@
         "81d6c269-6fb3-4984-8164-f2bdbf7c52ac": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
+            "title": "",
             "title_color": "",
             "alignment": "center",
             "html_area": ""
@@ -624,7 +597,6 @@
     "16553343122727c31e",
     "16547282491ee4d8ac",
     "165543266112ffbf5b",
-    "4ae141b3-127f-4e84-a422-c6a5d9ab5d06",
     "16359281184fd0d618",
     "1656365281da19ef8d",
     "165688204869fd5c21",
