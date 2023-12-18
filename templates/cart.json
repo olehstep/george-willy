@@ -1,5 +1,35 @@
 {
   "sections": {
+    "6660463c-2d61-4f68-91c4-9be11fb269ad": {
+      "type": "rich-text",
+      "blocks": {
+        "17160756-8053-441b-9574-6ac1067d541c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_500_x_200_px.jpg",
+            "image_width": 170,
+            "url": ""
+          }
+        },
+        "template--14647435133031__6660463c-2d61-4f68-91c4-9be11fb269ad-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>\"This is the only company that makes attractive signage\" <\/strong><\/p><p>Phoebe Paterson @mondayjournal<\/p>",
+            "enlarge_text": false
+          }
+        }
+      },
+      "block_order": [
+        "17160756-8053-441b-9574-6ac1067d541c",
+        "template--14647435133031__6660463c-2d61-4f68-91c4-9be11fb269ad-text-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "use_alt_bg": false
+      }
+    },
     "main": {
       "type": "main-cart",
       "settings": {
@@ -249,6 +279,7 @@
     }
   },
   "order": [
+    "6660463c-2d61-4f68-91c4-9be11fb269ad",
     "main",
     "1677016408764d56e1",
     "16558549196a7c76a6",
