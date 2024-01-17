@@ -277,20 +277,6 @@
         "overlay_style": "shadow"
       }
     },
-    "4e61a570-e243-4ca0-aaf6-cb2c86675828": {
-      "type": "metafields_featured-collection",
-      "disabled": true,
-      "settings": {
-        "metafield_key": "custom.featured_collection",
-        "show_vendor": false,
-        "enable_carousel": true,
-        "grid": 4,
-        "rows": 1,
-        "use_alt_bg": false,
-        "show_view_all": true,
-        "full_width": true
-      }
-    },
     "1655859379d08f0f7b": {
       "type": "apps",
       "blocks": {
@@ -305,6 +291,19 @@
       ],
       "settings": {
         "full_width": false
+      }
+    },
+    "4e61a570-e243-4ca0-aaf6-cb2c86675828": {
+      "type": "metafields_featured-collection",
+      "settings": {
+        "metafield_key": "custom.featured_collection",
+        "show_vendor": false,
+        "enable_carousel": false,
+        "grid": 4,
+        "rows": 5,
+        "use_alt_bg": false,
+        "show_view_all": true,
+        "full_width": true
       }
     },
     "recommendations": {
@@ -336,8 +335,8 @@
     "e22599fd-eff9-451d-8980-7b9503738251",
     "b2801bd3-2747-40bc-a539-a8dd87cfbf59",
     "4e2b090f-f40a-439d-be97-7aba07ccac2f",
-    "4e61a570-e243-4ca0-aaf6-cb2c86675828",
     "1655859379d08f0f7b",
+    "4e61a570-e243-4ca0-aaf6-cb2c86675828",
     "recommendations",
     "shogun-below",
     "e078eeed-00f3-4f3d-a821-b5a860d580b4"
